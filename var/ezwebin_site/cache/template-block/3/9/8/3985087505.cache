@@ -1,0 +1,51 @@
+
+</head>
+<body>
+
+<div id="page" class="ezcontentnavigationpart section_id_0">
+
+<div id="header">
+<div id="header-design" class="float-break">
+
+<div id="header-logo">    <a href="/index.php/ezwebin_site_admin/content/dashboard" title="eZ Publish Community Project 2012.2">&nbsp;</a></div>
+
+<div id="header-search"><div class="searchblock">
+<form action="/index.php/ezwebin_site_admin/content/search" method="get">
+                                        <input id="searchtext" name="SearchText" type="text" size="20" value="" title="在'Home'中搜索" />
+        <input type="hidden" name="SubTreeArray" value="2" />
+        <input id="searchbutton" class="button hide" name="SearchButton" type="submit" value="搜索" />
+                    <input name="Mode" type="hidden" value="browse" />
+            <input name="BrowsePageLimit" type="hidden" value="25" />
+            <p class="advanced hide"><span class="disabled">高级</span></p>
+                <div class="searchbuttonfield" id="searchbuttonfield"></div>
+    </form>
+</div>
+
+<script type="text/javascript">
+
+(function($){
+  if ( !document.getElementById('searchbuttonfield') )return;
+
+  $('#searchbuttonfield').click(function(){
+    if ( $('#searchtext').val() === $('#searchtext').attr('title') )return;
+      $('#searchbutton').click();
+  });
+})( jQuery );
+
+</script></div>
+
+<div id="header-usermenu">    <a href="/index.php/ezwebin_site_admin/user/logout" title="退出系统。" id="header-usermenu-logout">退出</a></div>
+
+
+<div id="header-topmenu">
+<ul>    <li class="unselected first ezmynavigationpart"><div>    <span class="disabled" title="管理属于您的帐户的项目及设置。">面板</span></div></li>        <li class="selected middle ezcontentnavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/content/browse/2" title="管理站点的主体内容结构。">内容结构</a></div></li>    <li class="unselected middle ezmedianavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/content/browse/43" title="管理图像，文件，文档等。">媒体库</a></div></li>    <li class="unselected middle ezusernavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/content/browse/5" title="管理用户，用户组及权限设置。">用户帐户</a></div></li>    <li class="unselected middle ezsetupnavigationpart"><div>    <span class="disabled" title="配置设置及管理高级功能。">设置</span></div></li>    <li class="unselected last eztagsnavigationpart"><div>    <span class="disabled" title="eZ Tags dashboard">eZ Tags</span></div></li></ul>
+</div>
+
+<script type="text/javascript">
+
+jQuery( '#header-topmenu ul li' ).click(function(){ jQuery(this).addClass('active'); });
+
+</script>
+
+</div>
+</div>

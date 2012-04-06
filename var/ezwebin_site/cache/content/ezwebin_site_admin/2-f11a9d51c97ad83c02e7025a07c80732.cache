@@ -1,0 +1,1021 @@
+a:10:{s:7:"content";s:51270:"
+<!-- START: including template: design/admin2/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+<p class="small">design/admin2/templates/node/view/full.tpl</p><br/>
+<div class="content-view-full">
+ <div class="class-frontpage">
+
+<!-- START: including template: design/admin2/templates/infocollection_validation.tpl (design/admin2/templates/infocollection_validation.tpl) -->
+<p class="small">design/admin2/templates/infocollection_validation.tpl</p><br/>
+
+<!-- STOP: including template: design/admin2/templates/infocollection_validation.tpl (design/admin2/templates/infocollection_validation.tpl) -->
+
+<div class="content-navigation">
+
+
+<div class="context-block">
+
+<div class="box-header">
+
+
+<h1 class="context-title"><a href="/index.php/ezwebin_site_admin/class/view/23" onclick="ezpopmenu_showTopLevel( event, 'ClassMenu', ez_createAArray( new Array( '%classID%', 23, '%objectID%', 65, '%nodeID%', 2, '%currentURL%', '', '%languages%', [{'locale':'eng-GB','name':'English (United Kingdom)'}] ) ), 'Frontpage', ['class-createnodefeed', 'class-removenodefeed'], -1 ); return false;"><img class="transparent-png-icon" src="/share/icons/crystal-admin/32x32/mimetypes/empty.png" width="32" height="32" alt="Frontpage" title="Frontpage" /></a>&nbsp;首页&nbsp;[Frontpage]&nbsp;</h1>
+
+<div class="header-mainline"></div>
+
+</div>
+
+
+<div class="box-content">
+
+<div class="context-information">
+<p class="left modified">最后修改于: 2012.04.01 6:54 pm, <a href="/index.php/ezwebin_site_admin/Users/Administrator-users/Administrator-User">Administrator User</a> (节点 ID: 2,  对象 ID: 65)</p>
+<p class="right translation">English (United Kingdom)&nbsp;<img src="/share/icons/flags/eng-GB.gif" width="18" height="12" alt="" style="vertical-align: middle;" /></p>
+<div class="break"></div>
+</div>
+
+<div id="window-controls" class="tab-block">
+
+<!-- START: including template: design/admin2/templates/window_controls.tpl (design/admin2/templates/window_controls.tpl) -->
+<p class="small">design/admin2/templates/window_controls.tpl</p><br/>
+                            <div class="button-left"><a id="maincontent-hide" class="show-hide-tabs" href="/index.php/ezwebin_site_admin/user/preferences/set/admin_navigation_content/0" title="Disable &quot;Tabs&quot; by default while browsing content.">-</a></div>
+<ul class="tabs tabs-by-cookie">
+    
+    <li id="node-tab-view" class="first selected">
+                    <a href="/index.php/ezwebin_site_admin/(tab)/view" title="简单显示内容。">显示</a>
+            </li>
+
+    
+    <li id="node-tab-details" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/(tab)/details" title="显示详细信息。">详细信息</a>
+            </li>
+
+    
+            <li id="node-tab-translations" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/(tab)/translations" title="显示可用翻译。">翻译(1)</a>
+            </li>
+        
+    
+    <li id="node-tab-locations" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/(tab)/locations" title="显示位置一览。">位置(1)</a>
+            </li>
+
+    
+    <li id="node-tab-relations" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/(tab)/relations" title="显示对象关联一览。">关联(5)</a>
+            </li>
+
+    
+    <li id="node-tab-ordering" class="last">
+                    <a href="/index.php/ezwebin_site_admin/(tab)/ordering" title="显示发布的顺序一览。">顺序</a>
+            </li>
+
+<!-- START: including template: design/admin2/templates/window_controls_extratabs.tpl (design/admin2/templates/window_controls_extratabs.tpl) -->
+<p class="small">design/admin2/templates/window_controls_extratabs.tpl</p><br/>
+            
+<!-- STOP: including template: design/admin2/templates/window_controls_extratabs.tpl (design/admin2/templates/window_controls_extratabs.tpl) -->
+</ul>
+<div class="float-break"></div>
+<div class="tabs-content">
+    
+<!-- START: including template: design/admin2/templates/windows.tpl (design/admin2/templates/windows.tpl) -->
+<p class="small">design/admin2/templates/windows.tpl</p><br/>
+
+<div id="node-tab-view-content" class="tab-content selected">
+    
+<!-- START: including template: design/admin2/templates/preview.tpl (design/admin2/templates/preview.tpl) -->
+<p class="small">design/admin2/templates/preview.tpl</p><br/>
+
+    
+<!-- START: including template: design/admin2/templates/node/view/admin_preview.tpl (design/admin2/templates/node/view/admin_preview.tpl) -->
+<p class="small">design/admin2/templates/node/view/admin_preview.tpl</p><br/>
+
+
+
+    <div class="block">
+            <label>Name:</label>
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezstring.tpl</p><br/>
+
+首页
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezstring.tpl (design:content/datatype/view/ezstring.tpl) -->
+        </div>    <div class="block">
+            <label>Billboard:</label>
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezobjectrelation.tpl (design:content/datatype/view/ezobjectrelation.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezobjectrelation.tpl</p><br/>
+   没有关联
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezobjectrelation.tpl (design:content/datatype/view/ezobjectrelation.tpl) -->
+        </div>    <div class="block">
+            <label>Left column:</label>
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltext.tpl</p><br/>
+
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+        </div>    <div class="block">
+            <label>Center column:</label>
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltext.tpl</p><br/>
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/embed.tpl</p><br/>
+
+<div class="object-center highlighted_object">
+<!-- START: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+<p class="small">design/standard/templates/content/view/embed.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/Tutorials-for">Tutorials for</a>
+<!-- STOP: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+</div>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/embed.tpl</p><br/>
+
+<div class="object-center highlighted_object">
+<!-- START: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+<p class="small">design/standard/templates/content/view/embed.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/Get-involved">Get involved</a>
+<!-- STOP: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+</div>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/embed.tpl</p><br/>
+
+<div class="object-center horizontally_listed_sub_items">
+<!-- START: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+<p class="small">design/standard/templates/content/view/embed.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Community/Pictures">Pictures</a>
+<!-- STOP: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+</div>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/table.tpl</p><br/>
+<table class="default" border="0" cellpadding="2" cellspacing="0" width="100%">
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/tr.tpl</p><br/>
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/td.tpl</p><br/>
+<td valign="top">  &nbsp;
+  </td>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/td.tpl</p><br/>
+<td valign="top">  &nbsp;
+  </td>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/tr.tpl</p><br/>
+
+<tr>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/td.tpl</p><br/>
+<td width="50%" valign="top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/factbox.tpl (design:content/datatype/view/ezxmltags/factbox.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/factbox.tpl</p><br/>
+
+<div class="object-left">
+<table bgcolor="#eeeeee">
+<tr>
+    <td>
+    
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/ul.tpl</p><br/>
+
+<ul>
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/li.tpl</p><br/>
+
+<li>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/link.tpl</p><br/>
+<a href="http://doc.ez.no/eZ-Publish/Technical-manual/4.5" target="_blank"> Technical manual </a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/li.tpl</p><br/>
+
+<li>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/link.tpl</p><br/>
+<a href="http://doc.ez.no/eZ-Publish/User-manual/4.5" target="_blank"> User manual </a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+</li>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/li.tpl (design:content/datatype/view/ezxmltags/li.tpl) -->
+
+</ul>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/ul.tpl (design:content/datatype/view/ezxmltags/ul.tpl) -->
+
+    </td>
+</tr>
+</table>
+</div>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/factbox.tpl (design:content/datatype/view/ezxmltags/factbox.tpl) -->
+
+  </td>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/td.tpl</p><br/>
+<td valign="top">  
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/quote.tpl (design:content/datatype/view/ezxmltags/quote.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/quote.tpl</p><br/>
+<blockquote><span class="hide">"</span>
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl</p><br/>
+<p>If you want to create your own custom site on a solid framework,
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/link.tpl</p><br/>
+<a href="/index.php/ezwebin_site_admin/node_215/eZ-Publish-Enterprise" target="_self"> this CMS could be for you</a>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/link.tpl (design:content/datatype/view/ezxmltags/link.tpl) -->
+&quot;.</p>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl (design:content/datatype/view/ezxmltags/paragraph.tpl) -->
+<span class="hide">"</span></blockquote>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/quote.tpl (design:content/datatype/view/ezxmltags/quote.tpl) -->
+
+  </td>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/td.tpl (design:content/datatype/view/ezxmltags/td.tpl) -->
+
+</tr>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/tr.tpl (design:content/datatype/view/ezxmltags/tr.tpl) -->
+
+</table>
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/table.tpl (design:content/datatype/view/ezxmltags/table.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+        </div>    <div class="block">
+            <label>Right column:</label>
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltext.tpl</p><br/>
+
+
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltags/embed.tpl</p><br/>
+
+<div class=" vertically_listed_sub_items">
+<!-- START: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+<p class="small">design/standard/templates/content/view/embed.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/eZ-Highlights">eZ Highlights</a>
+<!-- STOP: including template: design/standard/templates/content/view/embed.tpl (design:content/view/embed.tpl) -->
+</div>
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltags/embed.tpl (design:content/datatype/view/ezxmltags/embed.tpl) -->
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+        </div>    <div class="block">
+            <label>Bottom column:</label>
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezxmltext.tpl</p><br/>
+
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezxmltext.tpl (design:content/datatype/view/ezxmltext.tpl) -->
+        </div>    <div class="block">
+            <label>Tags:</label>
+        
+<!-- START: including template: design/standard/templates/content/datatype/view/ezkeyword.tpl (design:content/datatype/view/ezkeyword.tpl) -->
+<p class="small">design/standard/templates/content/datatype/view/ezkeyword.tpl</p><br/>
+
+
+<!-- STOP: including template: design/standard/templates/content/datatype/view/ezkeyword.tpl (design:content/datatype/view/ezkeyword.tpl) -->
+        </div>
+<!-- STOP: including template: design/admin2/templates/node/view/admin_preview.tpl (design/admin2/templates/node/view/admin_preview.tpl) -->
+
+<!-- STOP: including template: design/admin2/templates/preview.tpl (design/admin2/templates/preview.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-details-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin2/templates/details.tpl (design/admin2/templates/details.tpl) -->
+<p class="small">design/admin2/templates/details.tpl</p><br/>
+<div class="block">
+
+
+<table class="list" cellspacing="0" summary="节点和对象详细，比如创建时的创建人，所属分区，版本和翻译数量，节点ID和对象ID。">
+<tr>
+    <th>创建者</th>
+    <th>创建于</th>
+    <th>分区</th>
+    <th class="tight">版本</th>
+    <th class="tight">翻译</th>
+    <th class="tight">节点 ID</th>
+    <th class="tight"> 对象 ID</th>
+</tr>
+<tr class="bglight">
+    <td><a href="/index.php/ezwebin_site_admin/Users/Administrator-users/Administrator-User">Administrator User</a></td>
+    <td>2007.11.01 4:33 pm</td>
+    <td><a href="/index.php/ezwebin_site_admin/section/view/1">Standard</a></td>
+    <td class="number" align="right">2</td>
+    <td class="number" align="right">1</td>
+    <td class="number" align="right">2</td>
+    <td class="number" align="right">65</td>
+</tr>
+</table>
+</div>
+
+<div class="block">
+<table class="list" cellspacing="0" summary="Node Remote ID and Object Remote ID">
+    <tr>
+        <th>Node Remote ID</th>
+        <th>Object Remote ID</th>
+    </tr>
+    <tr>
+         <td>f3e90596361e31d496d4026eb624c983</td>
+         <td>8a9c9c761004866fb458d89910f52bee</td>
+    </tr>
+</table>
+</div>
+
+<br />
+
+<div class="block">
+<h3>对象状态</h3>
+
+
+<form name="statesform" method="post" action="/index.php/ezwebin_site_admin/state/assign">
+<input type="hidden" name="ObjectID" value="65" />
+<input type="hidden" name="RedirectRelativeURI" value="" />
+
+<table id="tab-details-states-list" class="list" cellspacing="0" summary="对象状态和本对象的状态组">    <tr class="bgdark">
+    <td colspan="2">
+    <em>没有配置对象状态。你可以在<a href="/index.php/ezwebin_site_admin/state/groups">这里</a>进行配置。</em>
+    </td>
+    </tr></table>
+
+<div class="block">
+<div class="button-left">
+        <input type="submit" id="tab-details-set-states" value="设置状态" name="AssignButton" class="button-disabled" disabled="disabled" title="没用状态应用到这个内容对象上，你可能需要更多的权限。"/>
+    </div>
+<div class="break"></div>
+</div>
+
+</form>
+</div>
+<script type="text/javascript">
+
+(function( $ )
+{
+    $('#tab-details-states-list select').change(function()
+    {
+        var btn = $('#tab-details-set-states');
+        if ( !btn.attr('disabled') )
+        {
+            btn.removeClass('button').addClass('defaultbutton');
+        }
+    });
+})( jQuery );
+
+</script>
+
+<!-- STOP: including template: design/admin2/templates/details.tpl (design/admin2/templates/details.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-translations-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin2/templates/translations.tpl (design/admin2/templates/translations.tpl) -->
+<p class="small">design/admin2/templates/translations.tpl</p><br/>
+
+<form name="translationsform" method="post" action="/index.php/ezwebin_site_admin/content/translation">
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="65" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<fieldset>
+<legend>现有翻译</legend>
+
+<table id="tab-translations-list" class="list" cellspacing="0" summary="这个对象的翻译语言列表。">
+<tr>
+    <th class="tight"><img src="/design/admin2/images/toggle-button-16x16.gif" width="16" height="16" alt="反选。" title="反选。" onclick="ezjs_toggleCheckboxes( document.translationsform, 'LanguageID[]' ); return false;"/></th>
+    <th>语言</th>
+    <th>区域</th>
+    <th class="tight">主体</th>
+    <th class="tight">&nbsp;</th>
+</tr>
+
+<tr class="bglight">
+
+
+<td>
+    <input type="checkbox" name="LanguageID[]" value="8" disabled="disabled" />
+</td>
+
+
+<td>
+<img src="/share/icons/flags/eng-GB.gif" width="18" height="12" alt="eng-GB" />
+&nbsp;<b><a href="/index.php/ezwebin_site_admin/(language)/eng-GB" title="查看翻译。">English (United Kingdom)</a></b></td>
+
+
+<td>eng-GB</td>
+
+
+<td>
+
+<input type="radio"  checked="checked" class="main-translation-radio main-translation-radio-initial" name="InitialLanguageID" value="8" title="使用这些单选按钮来选择主体语言。" />
+
+</td>
+
+
+<td>
+
+<a href="/index.php/ezwebin_site_admin/content/edit/65/f/eng-GB"><img src="/design/standard/images/edit.gif" width="16" height="16" alt="使用&lt;English (United Kingdom)&gt;编辑。" title="使用&lt;English (United Kingdom)&gt;编辑。" /></a>
+
+</td>
+
+</tr>
+</table>
+
+<div class="block">
+<div class="button-left">        <input class="button-disabled" type="submit" name="RemoveTranslationButton" value="Remove selected" title="没有可删除的语言。" disabled="disabled" />
+    </div>
+
+<div class="button-right">        <input class="button-disabled" type="submit" name="UpdateInitialLanguageButton" value="设为主体" disabled="disabled" title="您不能更改主体语言，因为该对象没有被翻译成任何其他的语言。" />
+    </div>
+
+<div class="break"></div>
+</div>
+
+</fieldset>
+
+
+<div class="block">
+
+<div class="block">
+<input id="tab-translations-alwaysavailable-checkbox" type="checkbox" name="AlwaysAvailable" value="1" checked="checked" /> 如果没有优先的翻译，使用主体语言。
+</div>
+
+<div class="block">    <input id="tab-translations-alwaysavailable-btn" class="button" type="submit" name="UpdateAlwaysAvailableButton" value="更新" title="使用该按钮保存以上复选框的值。" />
+    <script type="text/javascript">
+    
+    (function( $ )
+    {
+        $('#tab-translations-alwaysavailable-checkbox').change(function()
+        {
+            $('#tab-translations-alwaysavailable-btn').removeClass('button').addClass('defaultbutton');
+        });
+    })( jQuery );
+    
+    </script></div>
+</div>
+
+
+</form>
+
+<!-- STOP: including template: design/admin2/templates/translations.tpl (design/admin2/templates/translations.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-locations-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin2/templates/locations.tpl (design/admin2/templates/locations.tpl) -->
+<p class="small">design/admin2/templates/locations.tpl</p><br/>
+
+<form name="locationsform" method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="65" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<table id="tab-locations-list" class="list" cellspacing="0" summary="当前对象的位置。">
+<tr>
+    <th class="tight"><img src="/design/admin2/images/toggle-button-16x16.gif" width="16" height="16" alt="反选。" title="反选。" onclick="ezjs_toggleCheckboxes( document.locationsform, 'LocationIDSelection[]' ); return false;"/></th>
+    <th class="wide">位置</th>
+    <th class="tight">子项</th>
+
+    <th class="tight">可见性</th>
+    <th class="tight">主体</th>
+</tr>    
+<tr class="bglight">
+
+    
+    <td>
+            <input type="checkbox" name="LocationIDSelection[]" value="2" disabled="disabled" title="无法删除该位置，因为您没有权限或当前位置正被显示。" />
+        </td>
+
+    
+        <td> <a href="/index.php/ezwebin_site_admin">首页</a></td>
+    
+
+    
+    <td class="number" align="right">2</td>
+
+    
+
+
+    
+    <td class="nowrap">
+            可见
+        [ <a href="/index.php/ezwebin_site_admin/content/hide/2" title="隐藏位置及其所有子项。" >隐藏</a> ]
+        </td>
+
+    
+    <td>
+
+    
+        <input type="radio" checked="checked" name="MainAssignmentCheck" value="2" disabled="disabled" title="正显示的项目只有一个位置，缺省为主体位置。" />
+    
+    
+    </td>
+</tr></table>
+
+
+<input type="hidden" name="HasMainAssignment" value="1" />
+
+
+<div class="block">
+<div class="button-left">
+        <input class="button-disabled" type="submit" name="RemoveAssignmentButton" value="Remove selected" title="没有可删除的位置。" disabled="disabled" />
+    
+        <input class="button-disabled" type="submit" name="AddAssignmentButton" value="添加位置" title="不能添加位置到顶级节点。" disabled="disabled" />
+    </div>
+
+<div class="button-right">    <input class="button-disabled" type="submit" name="UpdateMainAssignmentButton" value="设为主体" disabled="disabled" title="您不能设置主体位置，因为当前只有一个位置。" /></div>
+
+<div class="break"></div>
+</div>
+
+</form>
+<!-- STOP: including template: design/admin2/templates/locations.tpl (design/admin2/templates/locations.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-relations-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin2/templates/relations.tpl (design/admin2/templates/relations.tpl) -->
+<p class="small">design/admin2/templates/relations.tpl</p><br/>
+
+<table class="list" cellspacing="0" summary="当前对象的关联列表。">
+<tr>
+    <th>关联的对象 (5)</th>
+        <th>类</th>
+    <th>关联类型</th>
+    </tr>        
+                                        <tr class="bglight">
+            <td><img src="/share/icons/crystal-admin/16x16_indexed/mimetypes/document.png" width="16" height="16" alt="Article" title="Article" />&nbsp;
+<!-- START: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+<p class="small">design/standard/templates/content/view/text_linked.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/eZ-Publish-Enterprise">eZ Publish Enterprise</a>
+<!-- STOP: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+</td>
+            <td>Article</td>
+            <td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    链接
+                                                </td>
+            </tr>
+                                                            <tr class="bgdark">
+            <td><img src="/share/icons/crystal-admin/16x16_indexed/mimetypes/document.png" width="16" height="16" alt="Article" title="Article" />&nbsp;
+<!-- START: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+<p class="small">design/standard/templates/content/view/text_linked.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/Get-involved">Get involved</a>
+<!-- STOP: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+</td>
+            <td>Article</td>
+            <td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    嵌入
+                                                </td>
+            </tr>
+                                                            <tr class="bglight">
+            <td><img src="/share/icons/crystal-admin/16x16_indexed/mimetypes/document.png" width="16" height="16" alt="Article" title="Article" />&nbsp;
+<!-- START: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+<p class="small">design/standard/templates/content/view/text_linked.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/Tutorials-for">Tutorials for</a>
+<!-- STOP: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+</td>
+            <td>Article</td>
+            <td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    嵌入
+                                                </td>
+            </tr>
+                                                            <tr class="bgdark">
+            <td><img src="/share/icons/crystal-admin/16x16_indexed/filesystems/folder.png" width="16" height="16" alt="Folder" title="Folder" />&nbsp;
+<!-- START: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+<p class="small">design/standard/templates/content/view/text_linked.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/eZ-Highlights">eZ Highlights</a>
+<!-- STOP: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+</td>
+            <td>Folder</td>
+            <td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    嵌入
+                                                </td>
+            </tr>
+                                                            <tr class="bglight">
+            <td><img src="/share/icons/crystal-admin/16x16_indexed/filesystems/folder_image.png" width="16" height="16" alt="Gallery" title="Gallery" />&nbsp;
+<!-- START: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+<p class="small">design/standard/templates/content/view/text_linked.tpl</p><br/>
+    <a href="/index.php/ezwebin_site_admin/node_215/Community/Pictures">Pictures</a>
+<!-- STOP: including template: design/standard/templates/content/view/text_linked.tpl (design/standard/templates/content/view/text_linked.tpl) -->
+</td>
+            <td>Gallery</td>
+            <td>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    嵌入
+                                                </td>
+            </tr>
+                                                        </table>
+
+<br />
+
+
+<table class="list" cellspacing="0" summary="反转当前状态的关联列表。">
+<tr>
+    <th>反转关联的对象(0)</th>
+    </tr>    <tr><td>当前查看的项目没有用到任何其它对象。</td></tr></table>
+<!-- START: including template: design/admin2/templates/navigator/google.tpl (design/admin2/templates/navigator/google.tpl) -->
+<p class="small">design/admin2/templates/navigator/google.tpl</p><br/>
+
+
+ 
+
+<!-- STOP: including template: design/admin2/templates/navigator/google.tpl (design/admin2/templates/navigator/google.tpl) -->
+
+<!-- STOP: including template: design/admin2/templates/relations.tpl (design/admin2/templates/relations.tpl) -->
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-ordering-content" class="tab-content hide">
+    
+<!-- START: including template: design/admin2/templates/ordering.tpl (design/admin2/templates/ordering.tpl) -->
+<p class="small">design/admin2/templates/ordering.tpl</p><br/>
+
+<form name="ordering" method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="2" />
+<div class="block">    
+    <fieldset>
+        <legend>发布顺序</legend>
+    
+            
+                                            <input type="hidden" name="ContentObjectID" value="65" />
+                
+        <div class="block">使用这些控制项设置当前位置子项的排序方式。</div>
+        <select id="ezasi-sort-field" name="SortingField" title="使用这些控制项设置当前位置子项的排序方式。">
+                    <option value="6" >类标识符</option>
+                    <option value="7" >类名</option>
+                    <option value="5" >深度</option>
+                    <option value="3" >已修改</option>
+                    <option value="9" >名称</option>
+                    <option value="1" >路径字符串</option>
+                    <option value="8" selected="selected">优先级</option>
+                    <option value="2" >已发布</option>
+                    <option value="4" >分区</option>
+                </select>
+    
+        <select id="ezasi-sort-order" name="SortingOrder" title="使用这些控制项设置当前位置子项的排序方式。">
+            <option value="0">降序</option>
+            <option value="1" selected="selected">升序</option>
+        </select>
+    
+        <input  id="ezasi-sort-set" class="button" type="submit" name="SetSorting" value="设置" title="使用这些控制项设置当前位置子项的排序方式。"  />
+    
+            </fieldset>
+</div>
+</form>
+
+
+
+<script type="text/javascript">
+jQuery('#ezasi-sort-field, #ezasi-sort-order').each( function(){
+    jQuery( this ).attr( 'initial', this.value );
+} ).change(function(){
+    var t = $(this), o = $(this.id === 'ezasi-sort-field' ? '#ezasi-sort-order' : '#ezasi-sort-field'), s = $('#ezasi-sort-set');
+    // signal in gui if user needs to save this or not
+    if ( t.val() === t.attr('initial') && o.val() === o.attr('initial') )
+        s.removeClass('defaultbutton').addClass('button');
+    else
+        s.removeClass('button').addClass('defaultbutton');
+});
+</script>
+
+
+<!-- STOP: including template: design/admin2/templates/ordering.tpl (design/admin2/templates/ordering.tpl) -->
+<div class="break"></div>
+</div>
+
+<!-- START: including template: design/admin2/templates/windows_extratabs.tpl (design/admin2/templates/windows_extratabs.tpl) -->
+<p class="small">design/admin2/templates/windows_extratabs.tpl</p><br/>
+
+<!-- STOP: including template: design/admin2/templates/windows_extratabs.tpl (design/admin2/templates/windows_extratabs.tpl) -->
+
+<!-- STOP: including template: design/admin2/templates/windows.tpl (design/admin2/templates/windows.tpl) -->
+</div>
+
+<!-- STOP: including template: design/admin2/templates/window_controls.tpl (design/admin2/templates/window_controls.tpl) -->
+
+</div>
+
+</div>
+
+<div class="controlbar">
+
+
+<form method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="TopLevelNode" value="2" />
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="65" />
+
+<div class="button-left">
+<div class='block'>
+                <select name="ContentObjectLanguageCode">
+                                   <option value="eng-GB" selected="selected">English (United Kingdom)</option>
+                                        <option value="">新的翻译</option>
+                        </select>
+        <input class="button" type="submit" name="EditButton" value="编辑" title="编辑该项目的内容。" />
+    <input class="button-disabled" type="submit" name="MoveNodeButton" value="移动" title="您没有权限将该项目移动到其他位置。" disabled="disabled" />
+    <input class="button-disabled" type="submit" name="ActionRemove" value="删除" title="您没有权限删除该项目。" disabled="disabled" /></div>
+</div>
+
+<div class="button-right">
+	<p class='versions'>
+    
+    <a href="/index.php/ezwebin_site_admin/content/history/65" title="查看和管理（复制，删除，等）此对象的版本。">管理版本</a>
+    </p>
+</div>
+
+<div class="float-break"></div>
+</form>
+
+</div>
+
+
+</div>
+
+
+<div id="content-view-children">    
+<!-- START: including template: design/admin2/templates/children.tpl (design/admin2/templates/children.tpl) -->
+<p class="small">design/admin2/templates/children.tpl</p><br/>
+<div class="content-view-children">
+
+
+
+<!-- Children START -->
+
+<div class="context-block">
+<form name="children" method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="2" />
+<input type="hidden" name="ContentObjectID" value="65" />
+    
+
+<div class="box-header">
+
+    <h2 class="context-title"><a href="/index.php/ezwebin_site_admin" title="向上一级。"><img src="/design/admin2/images/up-16x16-grey.png" width="16" height="16" alt="向上一级。" title="向上一级。" /></a>&nbsp;子项 (2)</h2>
+
+</div>
+
+<div class="box-content">
+
+
+
+<div class="context-toolbar">
+<div class="float-break"></div>
+</div>
+
+    
+    
+    
+    
+                                                                                                                                                                                                                                            
+    <input type="hidden" name="NodeID" value="2" />
+
+    
+    
+<!-- START: including template: design/admin2/templates/children_detailed.tpl (design/admin2/templates/children_detailed.tpl) -->
+<p class="small">design/admin2/templates/children_detailed.tpl</p><br/>
+
+
+<script type="text/javascript">
+(function() {
+
+
+var availableLanguages = {'eng-US': 'English (American)','eng-GB': 'English (United Kingdom)','chi-CN': 'Simplified Chinese'};
+
+var icons = {'eng-US': '/share/icons/flags/eng-US.gif','eng-GB': '/share/icons/flags/eng-GB.gif','chi-CN': '/share/icons/flags/chi-CN.gif'};
+
+var vcols = {    ezcontentnavigationpart : 'checkbox;crank;name;published_date;translations;priority'.split(';'),
+    ezmedianavigationpart : 'checkbox;crank;thumbnail;name;hidden_status_string;class_name'.split(';'),
+    ezusernavigationpart : 'checkbox;crank;name;creator;published_date'.split(';')};
+
+var confObj = {
+    sortKey: "priority",
+    dataSourceURL: "/index.php/ezwebin_site_admin/ezjscore/call/ezjscnode::subtree::2",
+    editPrefixURL: "/index.php/ezwebin_site_admin/content/edit",
+    rowsPrPage: 25,
+    sortOrder: 1,
+    nameFilter: '',
+    defaultShownColumns: vcols,
+    navigationPart: "ezcontentnavigationpart",
+    cookieName: "eZSubitemColumns",
+    cookieSecure: false,
+    cookieDomain: "localhost",
+    languages: availableLanguages,
+    classesString: [{"classID":16,"name":"Article"},{"classID":17,"name":"Article (main-page)"},{"classID":18,"name":"Article (sub-page)"},{"classID":42,"name":"Banner"},{"classID":19,"name":"Blog"},{"classID":20,"name":"Blog post"},{"classID":13,"name":"Comment"},{"classID":24,"name":"Documentation page"},{"classID":40,"name":"Event"},{"classID":41,"name":"Event calendar"},{"classID":22,"name":"Feedback form"},{"classID":28,"name":"File"},{"classID":29,"name":"Flash"},{"classID":1,"name":"Folder"},{"classID":37,"name":"Forum"},{"classID":39,"name":"Forum reply"},{"classID":38,"name":"Forum topic"},{"classID":43,"name":"Forums"},{"classID":23,"name":"Frontpage"},{"classID":35,"name":"Gallery"},{"classID":36,"name":"Geo Article"},{"classID":30,"name":"Image"},{"classID":25,"name":"Infobox"},{"classID":31,"name":"Link"},{"classID":26,"name":"Multicalendar"},{"classID":27,"name":"Poll"},{"classID":21,"name":"Product"},{"classID":32,"name":"Quicktime"},{"classID":34,"name":"Real video"},{"classID":44,"name":"Silverlight"},{"classID":33,"name":"Windows media"},{"classID":45,"name":"\u57fa\u672c\u4fe1\u606f"},{"classID":47,"name":"\u6027\u522b"}],
+    flagIcons: icons
+}
+
+var labelsObj = {
+
+    DATA_TABLE: {
+                        msg_loading: "正在加载..."
+                    },
+
+    DATA_TABLE_COLS: {
+                        thumbnail: "图标",
+                        name: "名称",
+                        visibility: "可见性",
+                        type: "类型",
+                        modifier: "修改者",
+                        modified: "已修改",
+                        published: "已发布",
+                        section: "分区",
+                        translations: "翻译",
+                        priority: "优先级",
+                        nodeid: "节点 ID",
+                        objectid: " 对象 ID",
+                        noderemoteid: "节点Remote ID",
+                        objectremoteid: "对象Remote ID",
+                        objectstate: "Object state"
+                    },
+
+    TABLE_OPTIONS: {
+                        header: "列表选项",
+                        header_noipp: "每页显示的条数:",
+                        header_vtc: "列表中显示的栏目:",
+                        button_close: "Close"
+                   },
+
+    ACTION_BUTTONS: {
+                        select: "选择",
+                        select_sav: "全选",
+                        select_sn: "不选",
+                        select_inv: "反选",
+                        create_new: "新建",
+                        more_actions: "更多操作",
+                        more_actions_rs: "Remove selected",
+                        more_actions_ms: "移动所选的项目",
+                        more_actions_no: "使用复选框选中一个或多个项",
+                        table_options: "列表选项",
+                        first_page: "&laquo;&nbsp;首页",
+                        previous_page: "&lsaquo;&nbsp;上页",
+                        next_page: "下页&nbsp;&rsaquo;",
+                        last_page: "尾页&nbsp;&raquo;"
+                    }
+};
+                
+    
+    var createGroups = [
+
+            "Content"
+                    ,
+                "Setup"
+                    ,
+                "Media"
+                    ,
+                "Users"
+                    ,
+                "病案组"
+            
+    ];
+
+    var createOptions = [
+
+            [
+                                { text: "Article", value: 16 }
+                                ,                        { text: "Article (main-page)", value: 17 }
+                                ,                        { text: "Article (sub-page)", value: 18 }
+                                ,                        { text: "Banner", value: 42 }
+                                ,                        { text: "Blog", value: 19 }
+                                ,                        { text: "Blog post", value: 20 }
+                                ,                        { text: "Comment", value: 13 }
+                                ,                        { text: "Documentation page", value: 24 }
+                                ,                        { text: "Event", value: 40 }
+                                ,                        { text: "Event calendar", value: 41 }
+                                ,                        { text: "Feedback form", value: 22 }
+                                ,                        { text: "Folder", value: 1 }
+                                ,                        { text: "Forum", value: 37 }
+                                ,                        { text: "Forum reply", value: 39 }
+                                ,                        { text: "Forum topic", value: 38 }
+                                ,                        { text: "Forums", value: 43 }
+                                ,                        { text: "Frontpage", value: 23 }
+                                ,                        { text: "Gallery", value: 35 }
+                                ,                        { text: "Geo Article", value: 36 }
+                                ,                        { text: "Infobox", value: 25 }
+                                ,                        { text: "Link", value: 31 }
+                                ,                        { text: "Multicalendar", value: 26 }
+                                ,                        { text: "Poll", value: 27 }
+                                ,                        { text: "Product", value: 21 }
+                                        ]
+                    ,
+                [
+                                { text: "Common ini settings", value: 14 }
+                                ,                        { text: "Template look", value: 15 }
+                                        ]
+                    ,
+                [
+                                { text: "File", value: 28 }
+                                ,                        { text: "Flash", value: 29 }
+                                ,                        { text: "Image", value: 30 }
+                                ,                        { text: "Quicktime", value: 32 }
+                                ,                        { text: "Real video", value: 34 }
+                                ,                        { text: "Silverlight", value: 44 }
+                                ,                        { text: "Windows media", value: 33 }
+                                        ]
+                    ,
+                [
+                                { text: "User", value: 4 }
+                                ,                        { text: "User group", value: 3 }
+                                        ]
+                    ,
+                [
+                                { text: "基本信息", value: 45 }
+                                ,                        { text: "性别", value: 47 }
+                                        ]
+                ];
+
+
+YUILoader.require(['datatable', 'button', 'container', 'cookie', 'element']);
+YUILoader.onSuccess = function() {
+    sortableSubitems.init(confObj, labelsObj, createGroups, createOptions);
+};
+var options = [];
+YUILoader.insert(options, 'js');
+
+})();
+</script>
+
+<div id="action-controls-container">
+    <div id="action-controls"></div>
+    <div id="tpg"></div>
+</div>
+<div id="content-sub-items-list" class="content-navigation-childlist"></div>
+<div id="bpg"></div>
+
+<div id="to-dialog-container"></div>
+
+<!-- STOP: including template: design/admin2/templates/children_detailed.tpl (design/admin2/templates/children_detailed.tpl) -->
+
+
+
+    <div class="context-toolbar">
+    
+<!-- START: including template: design/admin2/templates/navigator/alphabetical.tpl (design/admin2/templates/navigator/alphabetical.tpl) -->
+<p class="small">design/admin2/templates/navigator/alphabetical.tpl</p><br/>
+
+<!-- START: including template: design/admin2/templates/navigator/google.tpl (design/admin2/templates/navigator/google.tpl) -->
+<p class="small">design/admin2/templates/navigator/google.tpl</p><br/>
+
+
+ 
+
+<!-- STOP: including template: design/admin2/templates/navigator/google.tpl (design/admin2/templates/navigator/google.tpl) -->
+
+<!-- STOP: including template: design/admin2/templates/navigator/alphabetical.tpl (design/admin2/templates/navigator/alphabetical.tpl) -->
+    </div>
+
+</div>
+
+</form>
+
+</div>
+
+
+
+
+<!-- Children END -->
+</div>
+
+<!-- STOP: including template: design/admin2/templates/children.tpl (design/admin2/templates/children.tpl) -->
+</div>
+
+</div>
+
+ </div>
+</div>
+<!-- STOP: including template: design/admin2/templates/node/view/full.tpl (design:node/view/full.tpl) -->
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:1:{i:0;a:4:{s:4:"text";s:6:"首页";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:1:"2";}}s:10:"title_path";a:1:{i:0;a:3:{s:4:"text";s:6:"首页";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:1:"2";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"65";s:7:"node_id";s:1:"2";s:14:"parent_node_id";s:1:"1";s:8:"class_id";s:2:"23";s:16:"class_identifier";s:9:"frontpage";s:9:"remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";s:14:"node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"1";s:9:"url_alias";s:0:"";s:16:"current_language";s:6:"eng-GB";s:13:"language_mask";s:1:"9";s:12:"main_node_id";s:1:"2";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:1:{s:8:"js_files";a:3:{i:0;s:12:"node_tabs.js";i:1;s:11:"ezjsc::yui2";i:2;s:27:"ezajaxsubitems_datatable.js";}}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"629709ba256fe317c3ddcee35453a96a";s:23:"parent_object_remote_id";s:32:"55f23fb36c2c765f039720e05ea84544";}s:13:"template_list";a:33:{i:0;s:42:"design/admin2/templates/node/view/full.tpl";i:1;s:53:"design/admin2/templates/infocollection_validation.tpl";i:2;s:43:"design/admin2/templates/window_controls.tpl";i:3;s:53:"design/admin2/templates/window_controls_extratabs.tpl";i:4;s:35:"design/admin2/templates/windows.tpl";i:5;s:35:"design/admin2/templates/preview.tpl";i:6;s:51:"design/admin2/templates/node/view/admin_preview.tpl";i:7;s:60:"design/standard/templates/content/datatype/view/ezstring.tpl";i:8;s:68:"design/standard/templates/content/datatype/view/ezobjectrelation.tpl";i:9;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:11;s:67:"design/standard/templates/content/datatype/view/ezxmltags/embed.tpl";i:12;s:48:"design/standard/templates/content/view/embed.tpl";i:17;s:64:"design/standard/templates/content/datatype/view/ezxmltags/td.tpl";i:19;s:64:"design/standard/templates/content/datatype/view/ezxmltags/tr.tpl";i:20;s:66:"design/standard/templates/content/datatype/view/ezxmltags/link.tpl";i:21;s:64:"design/standard/templates/content/datatype/view/ezxmltags/li.tpl";i:24;s:64:"design/standard/templates/content/datatype/view/ezxmltags/ul.tpl";i:25;s:69:"design/standard/templates/content/datatype/view/ezxmltags/factbox.tpl";i:28;s:71:"design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:29;s:67:"design/standard/templates/content/datatype/view/ezxmltags/quote.tpl";i:32;s:67:"design/standard/templates/content/datatype/view/ezxmltags/table.tpl";i:37;s:61:"design/standard/templates/content/datatype/view/ezkeyword.tpl";i:38;s:35:"design/admin2/templates/details.tpl";i:39;s:40:"design/admin2/templates/translations.tpl";i:40;s:37:"design/admin2/templates/locations.tpl";i:41;s:37:"design/admin2/templates/relations.tpl";i:42;s:54:"design/standard/templates/content/view/text_linked.tpl";i:47;s:44:"design/admin2/templates/navigator/google.tpl";i:48;s:36:"design/admin2/templates/ordering.tpl";i:49;s:45:"design/admin2/templates/windows_extratabs.tpl";i:50;s:36:"design/admin2/templates/children.tpl";i:51;s:45:"design/admin2/templates/children_detailed.tpl";i:52;s:50:"design/admin2/templates/navigator/alphabetical.tpl";}s:9:"cache_ttl";i:-1;}

@@ -1,0 +1,50 @@
+    <hr class="hide" />
+
+    <div id="columns">
+
+        
+<!-- START: including template: design/base/templates/menu/flat_left.tpl (design/base/templates/menu/flat_left.tpl) -->
+<p class="small">design/base/templates/menu/flat_left.tpl</p><br/>
+<div id="leftmenu">
+<div id="leftmenu-design">
+
+<h3 class="hide">左侧菜单</h3>
+                <ul>
+                                                        
+                            <li class="menu-level-0">
+            
+            <a class="selected" href="/index.php/node_214">中医病案库</a>
+
+                                                                    
+                            
+                <ul>
+                    <li class="menu-level-1">
+            
+            <a  href="/index.php/node_214/node_219">码表</a>
+
+                                                            </li>
+            
+                            <li class="menu-level-1">
+            
+            <a  href="/index.php/node_214/node_220">基本信息</a>
+
+                                                            </li>
+            
+                            <li class="menu-level-1">
+            
+            <a  href="/index.php/node_214/node_221">病案</a>
+
+                               </li>
+
+                    </ul>
+        </li>
+                </ul>
+        
+</div>
+</div>
+
+
+<!-- STOP: including template: design/base/templates/menu/flat_left.tpl (design/base/templates/menu/flat_left.tpl) -->
+
+        <hr class="hide" />
+    

@@ -1,0 +1,20 @@
+
+<div id="path">
+<div id="path-design">
+    
+<p class="path"><span class="path-here-text">你的位置:</span>                    <span class="disabled">首页</span>
+            
+            <span class="slash">/</span>
+                        <span class="disabled">中医病案库</span>
+            
+            <span class="slash">/</span>
+                        <span class="disabled">码表</span>
+            
+            <span class="slash">/</span>
+                <span class="path">新建 性别</span>
+    
+    &nbsp;</p></div>
+</div>
+
+<hr class="hide" />
+

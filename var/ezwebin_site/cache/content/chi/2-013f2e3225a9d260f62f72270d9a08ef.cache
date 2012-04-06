@@ -1,0 +1,80 @@
+a:10:{s:7:"content";s:2452:"    
+                
+<div class="content-view-full">
+    <div class="class-frontpage noleftcolumn rightcolumn">
+
+    <div class="columns-frontpage float-break">
+        <div class="left-column-position">
+            <div class="left-column">
+            <!-- Content: START -->
+                   
+            <!-- Content: END -->
+            </div>
+        </div>
+        <div class="center-column-position">
+            <div class="center-column float-break">
+                <div class="overflow-fix">
+                <!-- Content: START -->
+                    
+<p>&nbsp;</p><table class="default" border="0" cellpadding="2" cellspacing="0" width="100%"><tr><td valign="top">  &nbsp;
+  </td><td valign="top">  &nbsp;
+  </td></tr><tr class="bglight"><td width="50%" valign="top">  <div class="factbox object-left">
+<div class="border-box factbox-header">
+<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
+<div class="border-ml"><div class="border-mr"><div class="border-mc">
+<div class="box-content">
+
+    <h2>Documentation&nbsp;</h2>
+
+</div>
+</div></div></div>
+</div>
+<div class="border-box factbox-content">
+<div class="border-ml"><div class="border-mr"><div class="border-mc">
+<div class="box-content">
+
+
+<ul>
+
+<li><a href="http://doc.ez.no/eZ-Publish/Technical-manual/4.5" target="_blank"> Technical manual </a></li>
+
+<li><a href="http://doc.ez.no/eZ-Publish/User-manual/4.5" target="_blank"> User manual </a></li>
+
+</ul>
+
+
+</div>
+</div></div></div>
+<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
+</div>
+</div>
+  </td><td valign="top">  <div class="object-right">
+    <div class="quote">
+      <div class="quote-design">
+      <div class="quote-begin"><span class="hide">"</span></div>
+      <p>If you want to create your own custom site on a solid framework,<a href="/index.php" target="_self"> this CMS could be for you</a>&quot;.</p>
+            <div class="quote-end"><span class="hide">"</span></div>
+      </div>
+   </div>
+</div>
+  </td></tr>
+</table>
+                <!-- Content: END -->
+                </div>
+            </div>
+        </div>
+        <div class="right-column-position">
+            <div class="right-column">
+            <!-- Content: START -->
+                  
+<p>&nbsp;</p>            <!-- Content: END -->
+            </div>
+        </div>
+    </div>
+
+    <div class="attribute-bottom-column">
+        
+    </div>
+
+    </div>
+</div>";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:1:{i:0;a:4:{s:4:"text";s:6:"首页";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:1:"2";}}s:10:"title_path";a:1:{i:0;a:3:{s:4:"text";s:6:"首页";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:1:"2";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"65";s:7:"node_id";s:1:"2";s:14:"parent_node_id";s:1:"1";s:8:"class_id";s:2:"23";s:16:"class_identifier";s:9:"frontpage";s:9:"remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";s:14:"node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"1";s:9:"url_alias";s:0:"";s:16:"current_language";s:6:"eng-GB";s:13:"language_mask";s:1:"9";s:12:"main_node_id";s:1:"2";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:3:{s:9:"left_menu";b:0;s:10:"extra_menu";b:0;s:9:"show_path";b:0;}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"629709ba256fe317c3ddcee35453a96a";s:23:"parent_object_remote_id";s:32:"0838e260a47d15bbafd23db074138ca9";}s:13:"template_list";a:11:{i:0;s:70:"extension/ezwebin/design/ezwebin/override/templates/full/frontpage.tpl";i:1;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:3;s:88:"extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:4;s:64:"design/standard/templates/content/datatype/view/ezxmltags/td.tpl";i:6;s:81:"extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/tr.tpl";i:7;s:66:"design/standard/templates/content/datatype/view/ezxmltags/link.tpl";i:8;s:64:"design/standard/templates/content/datatype/view/ezxmltags/li.tpl";i:11;s:64:"design/standard/templates/content/datatype/view/ezxmltags/ul.tpl";i:12;s:82:"extension/ezwebin/design/ezwebin/override/templates/datatype/ezxmltext/factbox.tpl";i:16;s:80:"extension/ezwebin/design/ezwebin/override/templates/datatype/ezxmltext/quote.tpl";i:19;s:67:"design/standard/templates/content/datatype/view/ezxmltags/table.tpl";}s:9:"cache_ttl";i:-1;}

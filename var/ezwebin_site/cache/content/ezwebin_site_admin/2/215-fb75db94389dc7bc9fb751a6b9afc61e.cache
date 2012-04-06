@@ -1,0 +1,665 @@
+a:10:{s:7:"content";s:25887:"<div class="content-view-full">
+ <div class="class-folder">
+
+<div class="content-navigation">
+
+
+<div class="context-block">
+
+<div class="box-header">
+    
+                                        
+<h1 class="context-title"><a href="/index.php/ezwebin_site_admin/class/view/1" onclick="ezpopmenu_showTopLevel( event, 'ClassMenu', ez_createAArray( new Array( '%classID%', 1, '%objectID%', 213, '%nodeID%', 215, '%currentURL%', 'node_215', '%languages%', [{'locale':'chi-CN','name':'\u7b80\u4f53\u4e2d\u6587'}] ) ), 'Folder', 'class-removenodefeed', -1 ); return false;"><img class="transparent-png-icon" src="/share/icons/crystal-admin/32x32/filesystems/folder.png" width="32" height="32" alt="Folder" title="Folder" /></a>&nbsp;隐藏文件夹&nbsp;[Folder]&nbsp;(隐藏)</h1>
+
+<div class="header-mainline"></div>
+
+</div>
+
+
+<div class="box-content">
+
+<div class="context-information">
+<p class="left modified">最后修改于: 2012.04.01 6:53 pm, <a href="/index.php/ezwebin_site_admin/Users/Administrator-users/Administrator-User">Administrator User</a> (节点 ID: 215,  对象 ID: 213)</p>
+<p class="right translation">Simplified Chinese&nbsp;<img src="/share/icons/flags/chi-CN.gif" width="18" height="12" alt="" style="vertical-align: middle;" /></p>
+<div class="break"></div>
+</div>
+
+<div id="window-controls" class="tab-block">
+                            <div class="button-left"><a id="maincontent-hide" class="show-hide-tabs" href="/index.php/ezwebin_site_admin/user/preferences/set/admin_navigation_content/0" title="Disable &quot;Tabs&quot; by default while browsing content.">-</a></div>
+<ul class="tabs tabs-by-cookie">
+    
+    <li id="node-tab-view" class="first selected">
+                    <a href="/index.php/ezwebin_site_admin/node_215/(tab)/view" title="简单显示内容。">显示</a>
+            </li>
+
+    
+    <li id="node-tab-details" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/node_215/(tab)/details" title="显示详细信息。">详细信息</a>
+            </li>
+
+    
+            <li id="node-tab-translations" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/node_215/(tab)/translations" title="显示可用翻译。">翻译(1)</a>
+            </li>
+        
+    
+    <li id="node-tab-locations" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/node_215/(tab)/locations" title="显示位置一览。">位置(1)</a>
+            </li>
+
+    
+    <li id="node-tab-relations" class="middle">
+                    <a href="/index.php/ezwebin_site_admin/node_215/(tab)/relations" title="显示对象关联一览。">关联(0)</a>
+            </li>
+
+    
+    <li id="node-tab-ordering" class="last">
+                    <a href="/index.php/ezwebin_site_admin/node_215/(tab)/ordering" title="显示发布的顺序一览。">顺序</a>
+            </li>
+            </ul>
+<div class="float-break"></div>
+<div class="tabs-content">
+    
+<div id="node-tab-view-content" class="tab-content selected">
+    
+    
+<div class="content-view-full">
+    <div class="class-folder">
+
+        <h1>隐藏文件夹</h1>
+
+        
+        
+        
+        
+        
+        <div class="content-control">
+            <h6>显示子项:</h6>
+                            <p>是</p>
+                        </div>
+
+    </div>
+</div>
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-details-content" class="tab-content hide">
+    <div class="block">
+
+
+<table class="list" cellspacing="0" summary="节点和对象详细，比如创建时的创建人，所属分区，版本和翻译数量，节点ID和对象ID。">
+<tr>
+    <th>创建者</th>
+    <th>创建于</th>
+    <th>分区</th>
+    <th class="tight">版本</th>
+    <th class="tight">翻译</th>
+    <th class="tight">节点 ID</th>
+    <th class="tight"> 对象 ID</th>
+</tr>
+<tr class="bglight">
+    <td><a href="/index.php/ezwebin_site_admin/Users/Administrator-users/Administrator-User">Administrator User</a></td>
+    <td>2012.04.01 6:53 pm</td>
+    <td><a href="/index.php/ezwebin_site_admin/section/view/1">Standard</a></td>
+    <td class="number" align="right">1</td>
+    <td class="number" align="right">1</td>
+    <td class="number" align="right">215</td>
+    <td class="number" align="right">213</td>
+</tr>
+</table>
+</div>
+
+<div class="block">
+<table class="list" cellspacing="0" summary="Node Remote ID and Object Remote ID">
+    <tr>
+        <th>Node Remote ID</th>
+        <th>Object Remote ID</th>
+    </tr>
+    <tr>
+         <td>89247ccb79b963b966fca4f809eed854</td>
+         <td>65b7413068c9c6ba8c37c7a33a05a2a1</td>
+    </tr>
+</table>
+</div>
+
+<br />
+
+<div class="block">
+<h3>对象状态</h3>
+
+
+<form name="statesform" method="post" action="/index.php/ezwebin_site_admin/state/assign">
+<input type="hidden" name="ObjectID" value="213" />
+<input type="hidden" name="RedirectRelativeURI" value="node_215" />
+
+<table id="tab-details-states-list" class="list" cellspacing="0" summary="对象状态和本对象的状态组">    <tr class="bgdark">
+    <td colspan="2">
+    <em>没有配置对象状态。你可以在<a href="/index.php/ezwebin_site_admin/state/groups">这里</a>进行配置。</em>
+    </td>
+    </tr></table>
+
+<div class="block">
+<div class="button-left">
+        <input type="submit" id="tab-details-set-states" value="设置状态" name="AssignButton" class="button-disabled" disabled="disabled" title="没用状态应用到这个内容对象上，你可能需要更多的权限。"/>
+    </div>
+<div class="break"></div>
+</div>
+
+</form>
+</div>
+<script type="text/javascript">
+
+(function( $ )
+{
+    $('#tab-details-states-list select').change(function()
+    {
+        var btn = $('#tab-details-set-states');
+        if ( !btn.attr('disabled') )
+        {
+            btn.removeClass('button').addClass('defaultbutton');
+        }
+    });
+})( jQuery );
+
+</script>
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-translations-content" class="tab-content hide">
+    
+<form name="translationsform" method="post" action="/index.php/ezwebin_site_admin/content/translation">
+<input type="hidden" name="ContentNodeID" value="215" />
+<input type="hidden" name="ContentObjectID" value="213" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<fieldset>
+<legend>现有翻译</legend>
+
+<table id="tab-translations-list" class="list" cellspacing="0" summary="这个对象的翻译语言列表。">
+<tr>
+    <th class="tight"><img src="/design/admin2/images/toggle-button-16x16.gif" width="16" height="16" alt="反选。" title="反选。" onclick="ezjs_toggleCheckboxes( document.translationsform, 'LanguageID[]' ); return false;"/></th>
+    <th>语言</th>
+    <th>区域</th>
+    <th class="tight">主体</th>
+    <th class="tight">&nbsp;</th>
+</tr>
+
+<tr class="bglight">
+
+
+<td>
+    <input type="checkbox" name="LanguageID[]" value="2" disabled="disabled" />
+</td>
+
+
+<td>
+<img src="/share/icons/flags/chi-CN.gif" width="18" height="12" alt="chi-CN" />
+&nbsp;<b><a href="/index.php/ezwebin_site_admin/node_215/(language)/chi-CN" title="查看翻译。">简体中文</a></b></td>
+
+
+<td>chi-CN</td>
+
+
+<td>
+
+<input type="radio"  checked="checked" class="main-translation-radio main-translation-radio-initial" name="InitialLanguageID" value="2" title="使用这些单选按钮来选择主体语言。" />
+
+</td>
+
+
+<td>
+
+<a href="/index.php/ezwebin_site_admin/content/edit/213/f/chi-CN"><img src="/design/standard/images/edit.gif" width="16" height="16" alt="使用&lt;Simplified Chinese&gt;编辑。" title="使用&lt;Simplified Chinese&gt;编辑。" /></a>
+
+</td>
+
+</tr>
+</table>
+
+<div class="block">
+<div class="button-left">        <input class="button-disabled" type="submit" name="RemoveTranslationButton" value="Remove selected" title="没有可删除的语言。" disabled="disabled" />
+    </div>
+
+<div class="button-right">        <input class="button-disabled" type="submit" name="UpdateInitialLanguageButton" value="设为主体" disabled="disabled" title="您不能更改主体语言，因为该对象没有被翻译成任何其他的语言。" />
+    </div>
+
+<div class="break"></div>
+</div>
+
+</fieldset>
+
+
+<div class="block">
+
+<div class="block">
+<input id="tab-translations-alwaysavailable-checkbox" type="checkbox" name="AlwaysAvailable" value="1" checked="checked" /> 如果没有优先的翻译，使用主体语言。
+</div>
+
+<div class="block">    <input id="tab-translations-alwaysavailable-btn" class="button" type="submit" name="UpdateAlwaysAvailableButton" value="更新" title="使用该按钮保存以上复选框的值。" />
+    <script type="text/javascript">
+    
+    (function( $ )
+    {
+        $('#tab-translations-alwaysavailable-checkbox').change(function()
+        {
+            $('#tab-translations-alwaysavailable-btn').removeClass('button').addClass('defaultbutton');
+        });
+    })( jQuery );
+    
+    </script></div>
+</div>
+
+
+</form>
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-locations-content" class="tab-content hide">
+    
+<form name="locationsform" method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="215" />
+<input type="hidden" name="ContentObjectID" value="213" />
+<input type="hidden" name="ViewMode" value="full" />
+<input type="hidden" name="ContentObjectLanguageCode" value="" />
+
+<table id="tab-locations-list" class="list" cellspacing="0" summary="当前对象的位置。">
+<tr>
+    <th class="tight"><img src="/design/admin2/images/toggle-button-16x16.gif" width="16" height="16" alt="反选。" title="反选。" onclick="ezjs_toggleCheckboxes( document.locationsform, 'LocationIDSelection[]' ); return false;"/></th>
+    <th class="wide">位置</th>
+    <th class="tight">子项</th>
+
+    <th class="tight">可见性</th>
+    <th class="tight">主体</th>
+</tr>    
+<tr class="bglight">
+
+    
+    <td>
+            <input type="checkbox" name="LocationIDSelection[]" value="215" disabled="disabled" title="无法删除该位置，因为您没有权限或当前位置正被显示。" />
+        </td>
+
+    
+        <td> <a href="/index.php/ezwebin_site_admin">Home</a> /  <a href="/index.php/ezwebin_site_admin/node_215">隐藏文件夹</a></td>
+    
+
+    
+    <td class="number" align="right">9</td>
+
+    
+
+
+    
+    <td class="nowrap">
+                        隐藏
+            [ <a href="/index.php/ezwebin_site_admin/content/hide/215" title="显示位置及所有子项。">显示</a> ]
+                </td>
+
+    
+    <td>
+
+    
+        <input type="radio" checked="checked" name="MainAssignmentCheck" value="215" disabled="disabled" title="正显示的项目只有一个位置，缺省为主体位置。" />
+    
+    
+    </td>
+</tr></table>
+
+
+<input type="hidden" name="HasMainAssignment" value="1" />
+
+
+<div class="block">
+<div class="button-left">
+        <input class="button-disabled" type="submit" name="RemoveAssignmentButton" value="Remove selected" title="没有可删除的位置。" disabled="disabled" />
+    
+        <input class="button" type="submit" name="AddAssignmentButton" value="添加位置" title="添加一个或多个新位置。" />
+    </div>
+
+<div class="button-right">    <input class="button-disabled" type="submit" name="UpdateMainAssignmentButton" value="设为主体" disabled="disabled" title="您不能设置主体位置，因为当前只有一个位置。" /></div>
+
+<div class="break"></div>
+</div>
+
+</form><div class="break"></div>
+</div>
+
+
+<div id="node-tab-relations-content" class="tab-content hide">
+    
+<table class="list" cellspacing="0" summary="当前对象的关联列表。">
+<tr>
+    <th>关联的对象 (0)</th>
+    </tr>    <tr><td>当前查看的项目没有用到任何其它对象。</td></tr></table>
+
+<br />
+
+
+<table class="list" cellspacing="0" summary="反转当前状态的关联列表。">
+<tr>
+    <th>反转关联的对象(0)</th>
+    </tr>    <tr><td>当前查看的项目没有用到任何其它对象。</td></tr></table>
+
+ 
+<div class="break"></div>
+</div>
+
+
+<div id="node-tab-ordering-content" class="tab-content hide">
+    
+<form name="ordering" method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="215" />
+<div class="block">    
+    <fieldset>
+        <legend>发布顺序</legend>
+    
+            
+                                            <input type="hidden" name="ContentObjectID" value="213" />
+                
+        <div class="block">使用这些控制项设置当前位置子项的排序方式。</div>
+        <select id="ezasi-sort-field" name="SortingField" title="使用这些控制项设置当前位置子项的排序方式。">
+                    <option value="6" >类标识符</option>
+                    <option value="7" >类名</option>
+                    <option value="5" >深度</option>
+                    <option value="3" >已修改</option>
+                    <option value="9" >名称</option>
+                    <option value="1" selected="selected">路径字符串</option>
+                    <option value="8" >优先级</option>
+                    <option value="2" >已发布</option>
+                    <option value="4" >分区</option>
+                </select>
+    
+        <select id="ezasi-sort-order" name="SortingOrder" title="使用这些控制项设置当前位置子项的排序方式。">
+            <option value="0">降序</option>
+            <option value="1" selected="selected">升序</option>
+        </select>
+    
+        <input  id="ezasi-sort-set" class="button" type="submit" name="SetSorting" value="设置" title="使用这些控制项设置当前位置子项的排序方式。"  />
+    
+            </fieldset>
+</div>
+</form>
+
+
+
+<script type="text/javascript">
+jQuery('#ezasi-sort-field, #ezasi-sort-order').each( function(){
+    jQuery( this ).attr( 'initial', this.value );
+} ).change(function(){
+    var t = $(this), o = $(this.id === 'ezasi-sort-field' ? '#ezasi-sort-order' : '#ezasi-sort-field'), s = $('#ezasi-sort-set');
+    // signal in gui if user needs to save this or not
+    if ( t.val() === t.attr('initial') && o.val() === o.attr('initial') )
+        s.removeClass('defaultbutton').addClass('button');
+    else
+        s.removeClass('button').addClass('defaultbutton');
+});
+</script>
+
+<div class="break"></div>
+</div>
+</div>
+
+</div>
+
+</div>
+
+<div class="controlbar">
+
+
+<form method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="TopLevelNode" value="215" />
+<input type="hidden" name="ContentNodeID" value="215" />
+<input type="hidden" name="ContentObjectID" value="213" />
+
+<div class="button-left">
+<div class='block'>
+                <select name="ContentObjectLanguageCode">
+                                   <option value="chi-CN" selected="selected">简体中文</option>
+                                        <option value="">新的翻译</option>
+                        </select>
+        <input class="button" type="submit" name="EditButton" value="编辑" title="编辑该项目的内容。" />
+    <input class="button" type="submit" name="MoveNodeButton" value="移动" title="将该项目移动到其他位置。" />
+    <input class="button" type="submit" name="ActionRemove" value="删除" title="删除这个项目。" /></div>
+</div>
+
+<div class="button-right">
+	<p class='versions'>
+    
+    <a href="/index.php/ezwebin_site_admin/content/history/213" title="查看和管理（复制，删除，等）此对象的版本。">管理版本</a>
+    </p>
+</div>
+
+<div class="float-break"></div>
+</form>
+
+</div>
+
+
+</div>
+
+
+<div id="content-view-children">    <div class="content-view-children">
+
+
+
+<!-- Children START -->
+
+<div class="context-block">
+<form name="children" method="post" action="/index.php/ezwebin_site_admin/content/action">
+<input type="hidden" name="ContentNodeID" value="215" />
+<input type="hidden" name="ContentObjectID" value="213" />
+    
+
+<div class="box-header">
+
+    <h2 class="context-title"><a href="/index.php/ezwebin_site_admin" title="向上一级。"><img src="/design/admin2/images/up-16x16-grey.png" width="16" height="16" alt="向上一级。" title="向上一级。" /></a>&nbsp;子项 (9)</h2>
+
+</div>
+
+<div class="box-content">
+
+
+
+<div class="context-toolbar">
+<div class="float-break"></div>
+</div>
+
+    
+    
+    
+    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+    <input type="hidden" name="NodeID" value="215" />
+
+    
+    
+
+<script type="text/javascript">
+(function() {
+
+
+var availableLanguages = {'eng-US': 'English (American)','eng-GB': 'English (United Kingdom)','chi-CN': 'Simplified Chinese'};
+
+var icons = {'eng-US': '/share/icons/flags/eng-US.gif','eng-GB': '/share/icons/flags/eng-GB.gif','chi-CN': '/share/icons/flags/chi-CN.gif'};
+
+var vcols = {    ezcontentnavigationpart : 'checkbox;crank;name;published_date;translations;priority'.split(';'),
+    ezmedianavigationpart : 'checkbox;crank;thumbnail;name;hidden_status_string;class_name'.split(';'),
+    ezusernavigationpart : 'checkbox;crank;name;creator;published_date'.split(';')};
+
+var confObj = {
+    sortKey: "published_date",
+    dataSourceURL: "/index.php/ezwebin_site_admin/ezjscore/call/ezjscnode::subtree::215",
+    editPrefixURL: "/index.php/ezwebin_site_admin/content/edit",
+    rowsPrPage: 25,
+    sortOrder: 1,
+    nameFilter: '',
+    defaultShownColumns: vcols,
+    navigationPart: "ezcontentnavigationpart",
+    cookieName: "eZSubitemColumns",
+    cookieSecure: false,
+    cookieDomain: "localhost",
+    languages: availableLanguages,
+    classesString: [{"classID":16,"name":"Article"},{"classID":17,"name":"Article (main-page)"},{"classID":18,"name":"Article (sub-page)"},{"classID":42,"name":"Banner"},{"classID":19,"name":"Blog"},{"classID":20,"name":"Blog post"},{"classID":13,"name":"Comment"},{"classID":24,"name":"Documentation page"},{"classID":40,"name":"Event"},{"classID":41,"name":"Event calendar"},{"classID":22,"name":"Feedback form"},{"classID":28,"name":"File"},{"classID":29,"name":"Flash"},{"classID":1,"name":"Folder"},{"classID":37,"name":"Forum"},{"classID":39,"name":"Forum reply"},{"classID":38,"name":"Forum topic"},{"classID":43,"name":"Forums"},{"classID":23,"name":"Frontpage"},{"classID":35,"name":"Gallery"},{"classID":36,"name":"Geo Article"},{"classID":30,"name":"Image"},{"classID":25,"name":"Infobox"},{"classID":31,"name":"Link"},{"classID":26,"name":"Multicalendar"},{"classID":27,"name":"Poll"},{"classID":21,"name":"Product"},{"classID":32,"name":"Quicktime"},{"classID":34,"name":"Real video"},{"classID":44,"name":"Silverlight"},{"classID":33,"name":"Windows media"}],
+    flagIcons: icons
+}
+
+var labelsObj = {
+
+    DATA_TABLE: {
+                        msg_loading: "正在加载..."
+                    },
+
+    DATA_TABLE_COLS: {
+                        thumbnail: "图标",
+                        name: "名称",
+                        visibility: "可见性",
+                        type: "类型",
+                        modifier: "修改者",
+                        modified: "已修改",
+                        published: "已发布",
+                        section: "分区",
+                        translations: "翻译",
+                        priority: "优先级",
+                        nodeid: "节点 ID",
+                        objectid: " 对象 ID",
+                        noderemoteid: "节点Remote ID",
+                        objectremoteid: "对象Remote ID",
+                        objectstate: "Object state"
+                    },
+
+    TABLE_OPTIONS: {
+                        header: "列表选项",
+                        header_noipp: "每页显示的条数:",
+                        header_vtc: "列表中显示的栏目:",
+                        button_close: "Close"
+                   },
+
+    ACTION_BUTTONS: {
+                        select: "选择",
+                        select_sav: "全选",
+                        select_sn: "不选",
+                        select_inv: "反选",
+                        create_new: "新建",
+                        more_actions: "更多操作",
+                        more_actions_rs: "Remove selected",
+                        more_actions_ms: "移动所选的项目",
+                        more_actions_no: "使用复选框选中一个或多个项",
+                        table_options: "列表选项",
+                        first_page: "&laquo;&nbsp;首页",
+                        previous_page: "&lsaquo;&nbsp;上页",
+                        next_page: "下页&nbsp;&rsaquo;",
+                        last_page: "尾页&nbsp;&raquo;"
+                    }
+};
+                
+    
+    var createGroups = [
+
+            "Content"
+                    ,
+                "Setup"
+                    ,
+                "Media"
+                    ,
+                "Users"
+            
+    ];
+
+    var createOptions = [
+
+            [
+                                { text: "Article", value: 16 }
+                                ,                        { text: "Article (main-page)", value: 17 }
+                                ,                        { text: "Article (sub-page)", value: 18 }
+                                ,                        { text: "Banner", value: 42 }
+                                ,                        { text: "Blog", value: 19 }
+                                ,                        { text: "Blog post", value: 20 }
+                                ,                        { text: "Comment", value: 13 }
+                                ,                        { text: "Documentation page", value: 24 }
+                                ,                        { text: "Event", value: 40 }
+                                ,                        { text: "Event calendar", value: 41 }
+                                ,                        { text: "Feedback form", value: 22 }
+                                ,                        { text: "Folder", value: 1 }
+                                ,                        { text: "Forum", value: 37 }
+                                ,                        { text: "Forum reply", value: 39 }
+                                ,                        { text: "Forum topic", value: 38 }
+                                ,                        { text: "Forums", value: 43 }
+                                ,                        { text: "Frontpage", value: 23 }
+                                ,                        { text: "Gallery", value: 35 }
+                                ,                        { text: "Geo Article", value: 36 }
+                                ,                        { text: "Infobox", value: 25 }
+                                ,                        { text: "Link", value: 31 }
+                                ,                        { text: "Multicalendar", value: 26 }
+                                ,                        { text: "Poll", value: 27 }
+                                ,                        { text: "Product", value: 21 }
+                                        ]
+                    ,
+                [
+                                { text: "Common ini settings", value: 14 }
+                                ,                        { text: "Template look", value: 15 }
+                                        ]
+                    ,
+                [
+                                { text: "File", value: 28 }
+                                ,                        { text: "Flash", value: 29 }
+                                ,                        { text: "Image", value: 30 }
+                                ,                        { text: "Quicktime", value: 32 }
+                                ,                        { text: "Real video", value: 34 }
+                                ,                        { text: "Silverlight", value: 44 }
+                                ,                        { text: "Windows media", value: 33 }
+                                        ]
+                    ,
+                [
+                                { text: "User", value: 4 }
+                                ,                        { text: "User group", value: 3 }
+                                        ]
+                ];
+
+
+YUILoader.require(['datatable', 'button', 'container', 'cookie', 'element']);
+YUILoader.onSuccess = function() {
+    sortableSubitems.init(confObj, labelsObj, createGroups, createOptions);
+};
+var options = [];
+YUILoader.insert(options, 'js');
+
+})();
+</script>
+
+<div id="action-controls-container">
+    <div id="action-controls"></div>
+    <div id="tpg"></div>
+</div>
+<div id="content-sub-items-list" class="content-navigation-childlist"></div>
+<div id="bpg"></div>
+
+<div id="to-dialog-container"></div>
+
+
+
+    <div class="context-toolbar">
+    
+
+ 
+    </div>
+
+</div>
+
+</form>
+
+</div>
+
+
+
+
+<!-- Children END -->
+</div>
+</div>
+
+</div>
+
+ </div>
+</div>";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:2:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:15:"隐藏文件夹";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:3:"215";}}s:10:"title_path";a:2:{i:0;a:4:{s:4:"text";s:4:"Home";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:3:{s:4:"text";s:15:"隐藏文件夹";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:3:"215";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:3:"213";s:7:"node_id";s:3:"215";s:14:"parent_node_id";s:1:"2";s:8:"class_id";s:1:"1";s:16:"class_identifier";s:6:"folder";s:9:"remote_id";s:32:"65b7413068c9c6ba8c37c7a33a05a2a1";s:14:"node_remote_id";s:32:"89247ccb79b963b966fca4f809eed854";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"2";s:9:"url_alias";s:8:"node_215";s:16:"current_language";s:6:"chi-CN";s:13:"language_mask";s:1:"3";s:12:"main_node_id";s:3:"215";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";a:1:{s:8:"js_files";a:3:{i:0;s:12:"node_tabs.js";i:1;s:11:"ezjsc::yui2";i:2;s:27:"ezajaxsubitems_datatable.js";}}s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:2:"23";s:23:"parent_class_identifier";s:9:"frontpage";s:21:"parent_node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:23:"parent_object_remote_id";s:32:"8a9c9c761004866fb458d89910f52bee";}s:13:"template_list";a:17:{i:0;s:42:"design/admin2/templates/node/view/full.tpl";i:1;s:53:"design/admin2/templates/infocollection_validation.tpl";i:2;s:43:"design/admin2/templates/window_controls.tpl";i:3;s:53:"design/admin2/templates/window_controls_extratabs.tpl";i:4;s:35:"design/admin2/templates/windows.tpl";i:5;s:35:"design/admin2/templates/preview.tpl";i:6;s:57:"design/admin2/override/templates/admin_preview/folder.tpl";i:7;s:35:"design/admin2/templates/details.tpl";i:8;s:40:"design/admin2/templates/translations.tpl";i:9;s:37:"design/admin2/templates/locations.tpl";i:10;s:37:"design/admin2/templates/relations.tpl";i:11;s:44:"design/admin2/templates/navigator/google.tpl";i:12;s:36:"design/admin2/templates/ordering.tpl";i:13;s:45:"design/admin2/templates/windows_extratabs.tpl";i:14;s:36:"design/admin2/templates/children.tpl";i:15;s:45:"design/admin2/templates/children_detailed.tpl";i:16;s:50:"design/admin2/templates/navigator/alphabetical.tpl";}s:9:"cache_ttl";i:-1;}

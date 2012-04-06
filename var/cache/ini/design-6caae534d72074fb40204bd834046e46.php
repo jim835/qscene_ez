@@ -1,0 +1,12 @@
+<?php
+// This is a auto generated ini cache file, time created:Thu, 05 Apr 12 19:29:32 +0800
+$data = array(
+'rev' => 2,
+'created' => '2012-04-05T19:29:32+08:00',
+'charset' => "utf-8",
+'files' => array (0 => 'settings/design.ini',1 => 'settings/siteaccess/chi/design.ini.append.php',2 => 'extension/ezmultiupload/settings/design.ini.append.php',3 => 'extension/ezjscore/settings/design.ini.append.php',4 => 'extension/ezodf/settings/design.ini.append.php',5 => 'extension/qstest/settings/design.ini.append.php',6 => 'extension/eztags/settings/design.ini.append.php',7 => 'extension/ezautosave/settings/design.ini.append.php',8 => 'extension/ezstarrating/settings/design.ini.append.php',9 => 'extension/ezgmaplocation/settings/design.ini.append.php',10 => 'extension/ezie/settings/design.ini.append.php',11 => 'extension/ezoe/settings/design.ini.append.php',12 => 'extension/ezwebin/settings/design.ini.append.php',13 => 'extension/ezwt/settings/design.ini.append.php',
+),
+'file' => 'settings/design.ini',
+'val' => array ('ExtensionSettings' => array ('DesignExtensions' => array (0 => 'ezmultiupload',1 => 'ezjscore',2 => 'ezodf',3 => 'qstest',4 => 'eztags',5 => 'ezautosave',6 => 'ezstarrating',7 => 'ezgmaplocation',8 => 'ezie',9 => 'ezoe',10 => 'ezwebin',11 => 'ezwt',),),'StylesheetSettings' => array ('SiteCSS' => 'var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/site-colors.css','ClassesCSS' => 'var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/classes-colors.css','CSSFileList' => array (),'FrontendCSSFileList' => array (),'BackendCSSFileList' => array (0 => 'autosave.css',),'EditorCSSFileList' => array (0 => 'skins/<skin>/content.css',),),'JavaScriptSettings' => array ('JavaScriptList' => array (0 => 'insertmedia.js',),'FrontendJavaScriptList' => array (),'BackendJavaScriptList' => array (0 => 'ezjsc::yui3',1 => 'ezjsc::yui3io',2 => 'tools/ezjsselection.js',3 => 'lib/ezjslibimagepreloader.js',4 => 'popupmenu/ezpopupmenu.js',5 => 'leftmenu_widthcontrol.js',6 => 'contentstructuremenu_dynamic.js',7 => 'fixed_toolbar.js',8 => 'ezmodalwindow.js',9 => 'ezajaxuploader.js',10 => 'ezcollapsiblemenu.js',11 => 'ezautosubmit.js',),'JavaScriptFooterList' => array (),),
+));
+?>

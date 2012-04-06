@@ -1,0 +1,19 @@
+                <div class="toollist">
+        <div class="toollist-design">
+        <h2>Latest</h2>
+        <div class="content-view-children">
+                    
+<!-- START: including template: design/standard/templates/node/view/listitem.tpl (design/standard/templates/node/view/listitem.tpl) -->
+<p class="small">design/standard/templates/node/view/listitem.tpl</p><br/>
+<a href="/index.php/chi/node_214/node_219/node_223">女</a>
+<!-- STOP: including template: design/standard/templates/node/view/listitem.tpl (design/standard/templates/node/view/listitem.tpl) -->
+                    
+<!-- START: including template: design/standard/templates/node/view/listitem.tpl (design/standard/templates/node/view/listitem.tpl) -->
+<p class="small">design/standard/templates/node/view/listitem.tpl</p><br/>
+<a href="/index.php/chi/node_214/node_219/node_222">男</a>
+<!-- STOP: including template: design/standard/templates/node/view/listitem.tpl (design/standard/templates/node/view/listitem.tpl) -->
+                </div>
+        </div>
+    </div>
+
+            

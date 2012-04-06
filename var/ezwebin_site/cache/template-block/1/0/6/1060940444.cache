@@ -1,0 +1,29 @@
+        <div class="break"></div>
+    </div>
+
+    <hr class="hide" />
+
+    
+<!-- START: including template: design/base/templates/menu/flat_top.tpl (design/base/templates/menu/flat_top.tpl) -->
+<p class="small">design/base/templates/menu/flat_top.tpl</p><br/>
+<div id="topmenu">
+    <div id="topmenu-design">
+
+    <h3 class="hide">顶级菜单</h3>
+
+    
+        <ul>
+                                                            <li class="last "><div class="spacing"><a href="/index.php/chi/node_214">中医病案库</a></div></li>
+                                                </ul>
+        	<div class="break"></div>
+    </div>
+</div>
+
+<hr class="hide" />
+
+
+
+<!-- STOP: including template: design/base/templates/menu/flat_top.tpl (design/base/templates/menu/flat_top.tpl) -->
+
+    <hr class="hide" />
+    

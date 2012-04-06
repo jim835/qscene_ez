@@ -1,0 +1,94 @@
+
+</head>
+<body>
+
+<div id="page" class="ezsetupnavigationpart section_id_0">
+
+<div id="header">
+<div id="header-design" class="float-break">
+
+
+<!-- START: including template: design/admin2/templates/page_header.tpl (design/admin2/templates/page_header.tpl) -->
+<p class="small">design/admin2/templates/page_header.tpl</p><br/>
+<div id="header-logo">    <a href="/index.php/ezwebin_site_admin/content/dashboard" title="eZ Publish Community Project 2012.2">&nbsp;</a></div>
+
+<div id="header-search">
+<!-- START: including template: design/admin2/templates/page_search.tpl (design/admin2/templates/page_search.tpl) -->
+<p class="small">design/admin2/templates/page_search.tpl</p><br/>
+<div class="searchblock">
+<form action="/index.php/ezwebin_site_admin/content/search" method="get">
+                    <input id="searchtext" name="SearchText" type="text" size="20" value="" title="在所有内容中搜索" />
+        <input type="hidden" name="SubTreeArray" value="1" />
+        <input id="searchbutton" class="button hide" name="SearchButton" type="submit" value="搜索" />
+                    <p class="advanced hide"><a href="/index.php/ezwebin_site_admin/content/advancedsearch" title="高级搜索。">高级</a></p>
+                <div class="searchbuttonfield" id="searchbuttonfield"></div>
+    </form>
+</div>
+
+<script type="text/javascript">
+
+(function($){
+  if ( !document.getElementById('searchbuttonfield') )return;
+
+  $('#searchbuttonfield').click(function(){
+    if ( $('#searchtext').val() === $('#searchtext').attr('title') )return;
+      $('#searchbutton').click();
+  });
+})( jQuery );
+
+</script>
+<!-- STOP: including template: design/admin2/templates/page_search.tpl (design/admin2/templates/page_search.tpl) -->
+</div>
+
+<div id="header-usermenu">    <a href="/index.php/ezwebin_site_admin/user/logout" title="退出系统。" id="header-usermenu-logout">退出</a></div>
+
+
+<!-- STOP: including template: design/admin2/templates/page_header.tpl (design/admin2/templates/page_header.tpl) -->
+
+
+<!-- START: including template: design/admin2/templates/page_topmenu.tpl (design/admin2/templates/page_topmenu.tpl) -->
+<p class="small">design/admin2/templates/page_topmenu.tpl</p><br/>
+<div id="header-topmenu">
+<ul>    
+<!-- START: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+<p class="small">design/admin2/templates/page_topmenuitem.tpl</p><br/>
+<li class="unselected first ezmynavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/content/dashboard" title="管理属于您的帐户的项目及设置。">面板</a></div></li>
+<!-- STOP: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+    
+<!-- START: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+<p class="small">design/admin2/templates/page_topmenuitem.tpl</p><br/>
+<li class="unselected middle ezcontentnavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/content/view/full/2" title="管理站点的主体内容结构。">内容结构</a></div></li>
+<!-- STOP: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+    
+<!-- START: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+<p class="small">design/admin2/templates/page_topmenuitem.tpl</p><br/>
+<li class="unselected middle ezmedianavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/content/view/full/43" title="管理图像，文件，文档等。">媒体库</a></div></li>
+<!-- STOP: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+    
+<!-- START: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+<p class="small">design/admin2/templates/page_topmenuitem.tpl</p><br/>
+<li class="unselected middle ezusernavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/content/view/full/5" title="管理用户，用户组及权限设置。">用户帐户</a></div></li>
+<!-- STOP: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+    
+<!-- START: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+<p class="small">design/admin2/templates/page_topmenuitem.tpl</p><br/>
+    <li class="selected middle ezsetupnavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/setup/cache" title="配置设置及管理高级功能。">设置</a></div></li>
+<!-- STOP: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+    
+<!-- START: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+<p class="small">design/admin2/templates/page_topmenuitem.tpl</p><br/>
+<li class="unselected last eztagsnavigationpart"><div>    <a href="/index.php/ezwebin_site_admin/tags/dashboard" title="eZ Tags dashboard">eZ Tags</a></div></li>
+<!-- STOP: including template: design/admin2/templates/page_topmenuitem.tpl (design/admin2/templates/page_topmenuitem.tpl) -->
+</ul>
+</div>
+
+<script type="text/javascript">
+
+jQuery( '#header-topmenu ul li' ).click(function(){ jQuery(this).addClass('active'); });
+
+</script>
+
+<!-- STOP: including template: design/admin2/templates/page_topmenu.tpl (design/admin2/templates/page_topmenu.tpl) -->
+
+</div>
+</div>

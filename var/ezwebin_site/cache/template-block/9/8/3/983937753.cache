@@ -1,0 +1,88 @@
+
+                
+    <title>登录 / 用户 - Website Interface</title>
+
+    
+    
+    
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta http-equiv="Content-language" content="zh-CN" />
+
+    
+        <meta name="author" content="QS" />
+
+        <meta name="copyright" content="QS" />
+
+        <meta name="description" content="Content Management System" />
+
+        <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+
+    
+    <meta name="generator" content="eZ Publish" />
+    
+
+<link rel="Home" href="/index.php/ezwebin_site_admin" title="Website Interface 首页" />
+<link rel="Index" href="/index.php/ezwebin_site_admin" />
+<link rel="Top"  href="/index.php/ezwebin_site_admin" title="登录 / 用户 - Website Interface" />
+<link rel="Search" href="/index.php/ezwebin_site_admin/content/advancedsearch" title="搜索Website Interface" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php/ezwebin_site_admin/ezinfo/copyright" />
+<link rel="Author" href="/index.php/ezwebin_site_admin/ezinfo/about" />
+
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/index.php/ezwebin_site_admin/layout/set/print/setup/settingstoolbar" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "打印机版本";
+    head.appendChild(printNode);
+})();
+</script>
+
+        
+      <link rel="stylesheet" type="text/css" href="/var/ezwebin_site/cache/public/stylesheets/b5ef6b64f65358596c73428067977de5_all.css" />
+
+  
+  
+
+<!--[if lt IE 8]>
+<style>
+/* Terminate floating elements flow in IE < 8 */
+.float-break
+{
+  height: 1%;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 8]>
+<style>
+#controlbar-top .box-bc
+{
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='gray', Direction=180, Strength=8);
+  zoom: 1;
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+.yui3-js-enabled .scroll-to-top {display: none;}
+input.box, textarea.box {width: 99%}
+</style>
+<![endif]-->
+
+
+  <script type="text/javascript" src="/var/ezwebin_site/cache/public/javascript/0cb95ac5554e09a52e0bcc1b33cd62ad.js" charset="utf-8"></script>
+
+</head>
+
+<body class="loginpage">
+
+<div id="page" class="ezcontentnavigationpart section_id_0">
+<div id="header">
+<div id="header-design" class="float-break">
+
+</div>
+</div>

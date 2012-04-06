@@ -1,0 +1,52 @@
+
+  <!-- Top menu area: START -->
+      
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl (extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl</p><br/>
+  <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/menu/flat_top.tpl (design:menu/flat_top.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/menu/flat_top.tpl</p><br/>
+<div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                                                       
+                            <li id="node_id_214" class="firstli lastli"><div><a href="/index.php/chi/node_214"><span>中医病案库</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/menu/flat_top.tpl (design:menu/flat_top.tpl) -->
+  </div>
+  </div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl (extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl) -->
+    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+      
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_toppath.tpl (extension/ezwebin/design/ezwebin/templates/page_toppath.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_toppath.tpl</p><br/>
+  <div id="path">
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/parts/path.tpl (design:parts/path.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/parts/path.tpl</p><br/>
+  <!-- Path content: START -->
+  <p>
+    </p>
+  <!-- Path content: END -->
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/parts/path.tpl (design:parts/path.tpl) -->
+  </div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_toppath.tpl (extension/ezwebin/design/ezwebin/templates/page_toppath.tpl) -->
+    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

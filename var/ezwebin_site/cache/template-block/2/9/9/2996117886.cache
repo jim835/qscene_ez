@@ -1,0 +1,343 @@
+                                <title>基本信息 / 中医病案库 / 首页 - Website Interface</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="zh-CN" />
+
+                    <meta name="author" content="QS" />
+    
+                <meta name="copyright" content="QS" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+    
+    
+    <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+        
+<link rel="Home" href="/index.php" title="Website Interface首页" />
+<link rel="Index" href="/index.php" />
+<link rel="Top"  href="/index.php" title="基本信息 / 中医病案库 / 首页 - Website Interface" />
+<link rel="Search" href="/index.php/content/advancedsearch" title="搜索Website Interface" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php/ezinfo/copyright" />
+<link rel="Author" href="/index.php/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/index.php/rss/feed/my_feed" />
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/index.php/layout/set/print/node_214/node_220" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "打印机版本";
+    head.appendChild(printNode);
+})();
+</script>      <link rel="stylesheet" type="text/css" href="/var/ezwebin_site/cache/public/stylesheets/19983026f591f0311d5c627b1f7cbaf8_all.css" />
+
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/classes-colors.css" />
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/site-colors.css" />
+<link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+<script type="text/javascript" src="/extension/ezwebin/design/ezwebin/javascript/insertmedia.js" charset="utf-8"></script>
+
+</head>
+
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+<!-- Complete page area: START -->
+
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="sidemenu noextrainfo section_id_1 subtree_level_0_node_id_2 subtree_level_1_node_id_214 subtree_level_2_node_id_220">
+
+  
+  <!-- Header area: START -->
+    <div id="header-position">
+  <div id="header" class="float-break">
+    <div id="usermenu">
+      <div id="languages">
+    <ul>
+                            <li class="current_siteaccess"><a href="/index.php/switchlanguage/to/chi/node_214/node_220">Chi</a></li>
+            <li><a href="/index.php/switchlanguage/to/eng/node_214/node_220">Eng</a></li>
+        </ul>
+</div>  
+      <div id="links">
+    <ul>
+                                <li id="tagcloud"><a href="/index.php/content/view/tagcloud/2" title="云标签">云标签</a></li>
+                                                    <li id="sitemap"><a href="/index.php/content/view/sitemap/2" title="网站地图">网站地图</a></li>
+                                                <li id="myprofile"><a href="/index.php/user/edit" title="我的信息">我的信息</a></li>
+                        <li id="logout"><a href="/index.php/user/logout" title="登出">登出 ( Administrator User )</a></li>
+            
+            <li id="sitesettings"><a href="/index.php/content/edit/54/a" title="网站设置">网站设置</a></li>
+        </ul>
+</div>    </div>
+
+    <div id="logo">    <h1><a href="/index.php" title="Website Interface">Website Interface</a></h1></div>    
+    <div id="searchbox">
+  <form action="/index.php/content/search">
+  <div id="searchbox-inner">
+    <label for="searchtext" class="hide">Search text:</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" />
+    <input id="searchbutton" class="button" type="submit" value="搜索" title="搜索" />
+              </div>
+  </form>
+</div>    
+    <p class="hide"><a href="#main">Skip to main content</a></p>
+  </div>
+  </div>  <!-- Header area: END -->
+
+  
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                                                       
+                            <li id="node_id_214" class="selected firstli lastli"><div><a href="/index.php/node_214"><span>中医病案库</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+        <div id="path">
+      <!-- Path content: START -->
+  <p>
+        <a href="/index.php">首页</a>
+      <span class="path-separator">/</span>      <a href="/index.php/node_214">中医病案库</a>
+      <span class="path-separator">/</span>      <span class="path-text">基本信息</span>
+        </p>
+  <!-- Path content: END -->  </div>    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+        <div id="toolbar">
+  
+                                      
+<!-- eZ website toolbar: START -->
+
+<div id="ezwt">
+<div id="ezwt-content" class="float-break">
+
+<!-- eZ website toolbar content: START -->
+<div id="ezwt-ezlogo">
+<a href="/index.php/ezinfo/about" title="关于" target="_blank"><img src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-logo.png" width="66" height="25" alt="eZ" /></a>
+</div>
+<form method="post" action="/index.php/content/action">
+<div id="ezwt-creataction" class="ezwt-actiongroup">
+<label for="ezwt-create" class="hide">Create:</label>    <select name="ClassID" id="ezwt-create">
+      <optgroup label="Content">
+            <option value="16">Article</option>
+            <option value="17">Article (main-page)</option>
+            <option value="18">Article (sub-page)</option>
+            <option value="19">Blog</option>
+            <option value="20">Blog post</option>
+            <option value="13">Comment</option>
+            <option value="24">Documentation page</option>
+            <option value="40">Event</option>
+            <option value="41">Event calendar</option>
+            <option value="22">Feedback form</option>
+            <option value="1">Folder</option>
+            <option value="37">Forum</option>
+            <option value="39">Forum reply</option>
+            <option value="38">Forum topic</option>
+            <option value="43">Forums</option>
+            <option value="23">Frontpage</option>
+            <option value="35">Gallery</option>
+            <option value="36">Geo Article</option>
+            <option value="25">Infobox</option>
+            <option value="31">Link</option>
+            <option value="26">Multicalendar</option>
+            <option value="27">Poll</option>
+            <option value="21">Product</option>
+        </optgroup>
+      <optgroup label="Media">
+            <option value="28">File</option>
+            <option value="29">Flash</option>
+            <option value="30">Image</option>
+            <option value="32">Quicktime</option>
+            <option value="34">Real video</option>
+            <option value="44">Silverlight</option>
+            <option value="33">Windows media</option>
+        </optgroup>
+      <optgroup label="Setup">
+            <option value="15">Template look</option>
+        </optgroup>
+      <optgroup label="Users">
+            <option value="4">User</option>
+            <option value="3">User group</option>
+        </optgroup>
+      <optgroup label="病案组">
+            <option value="45">基本信息</option>
+            <option value="47">性别</option>
+        </optgroup>
+    </select>
+    <input type="hidden" name="ContentLanguageCode" value="chi-CN" />
+  <input class="ezwt-input-image" type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-create.png" name="NewButton" title="在此创建" />
+</div>
+<div id="ezwt-currentpageaction" class="ezwt-actiongroup">
+    <input type="hidden" name="ContentObjectLanguageCode" value="chi-CN" />
+    <input class="ezwt-input-image" type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-edit.png" name="EditButton" title="编辑: 基本信息 [Folder]" />    <input class="ezwt-input-image" type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-move.png" name="MoveNodeButton" title="移动: 基本信息 [Folder]" />    <input class="ezwt-input-image" type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-remove.png" name="ActionRemove" title="删除: 基本信息 [Folder]" />            <input class="ezwt-input-image" type="image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-locations.png" name="AddAssignmentButton" title="添加位置" />
+    
+<a href="/index.php/websitetoolbar/sort/220" title="Sorting"><img src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-sort.png" alt="Sorting" /></a>
+
+</div>
+
+<div id="ezwt-miscaction" class="ezwt-actiongroup">
+                                                                                            <input type="image" disabled="disabled" class="ezwt-input-image disabled" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-url.png" alt="Toggle menu link type edit." title="Toggle menu link type edit." id="ezwt-link-switcher" />
+
+<script type="text/javascript">
+
+(function( d )
+{
+    addEvent( window, 'load', function(){
+        var link = d.getElementById('ezwt-link-switcher');
+        link.disabled = false;
+        link.className = 'ezwt-input-image';
+
+        addEvent( link, 'click', function( e ){
+            e = e || window.event;
+            if( e.preventDefault ) e.preventDefault();
+            else e.returnValue = false;
+            var links = getByClass( d, 'menu-item-link' );
+            for (var i = 0, l = links.length; i < l; i++)
+            {
+                var rel = links[i].getAttribute('rel'), href = links[i].getAttribute('href'), target = links[i].getAttribute('target'), rev = links[i].getAttribute('rev');
+                links[i].setAttribute('rel',  href );
+                links[i].setAttribute('href', rel );
+                links[i].setAttribute('target', rev ? rev : '' );
+                links[i].setAttribute('rev', target ? target : '' );
+            }
+            return false;
+        });
+    });
+
+    function getByClass( n, className )
+    {
+        if (n.getElementsByClassName)
+          return n.getElementsByClassName(className);
+
+        var hits = [], els = n.getElementsByTagName("*");
+        for (var i = 0, l = els.length; i < l; i++)
+        {
+            if ( els[i].className && ( ' ' + els[i].className + ' ').indexOf( ' ' + className + ' ' ) !== -1 )
+                hits.push( els[i] );
+        }
+        return hits;
+    }
+
+    function addEvent( n, trigger, handler )
+    {
+        if ( n.addEventListener ) n.addEventListener( trigger, handler, true );
+        else if ( n.attachEvent ) n.attachEvent( 'on' + trigger, handler );
+    }
+})( document );
+
+</script>                    
+  <input type="hidden" name="HasMainAssignment" value="1" />
+  <input type="hidden" name="ContentObjectID" value="218" />
+  <input type="hidden" name="NodeID" value="220" />
+  <input type="hidden" name="ContentNodeID" value="220" />
+  
+            <input type="hidden" name="ContentObjectLanguageCode" value="chi-CN" />
+
+    <a href="http://localhost/index.php/ezwebin_site_admin/node_214/node_220" target="_blank" title="Go to admin interface."><img src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-admin.png" alt="Go to admin interface." /></a>
+</div>
+</form>
+    <div id="ezwt-ooaction" class="ezwt-actiongroup">
+<form method="post" action="/index.php/ezodf/import" class="right">
+  <input type="hidden" name="ImportType" value="replace" />
+  <input type="hidden" name="NodeID" value="220" />
+  <input type="hidden" name="ObjectID" value="218" />
+  <input type="image" class="ezwt-input-image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-replace.png" name="ReplaceAction" title="替换" />
+</form><form method="post" action="/index.php/ezodf/export" class="right">
+  <input type="hidden" name="NodeID" value="220" />
+  <input type="hidden" name="ObjectID" value="218" />
+  <input type="image" class="ezwt-input-image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-export.png" name="ExportAction" title="导出" />
+</form><form method="post" action="/index.php/ezodf/import" class="right">
+  <input type="hidden" name="NodeID" value="220" />
+  <input type="hidden" name="ObjectID" value="218" />
+  <input type="image" class="ezwt-input-image" src="/extension/ezwt/design/standard/images/websitetoolbar/ezwt-icon-import.png" name="ImportAction" title="导入" />
+</form>
+</div><div id="ezwt-help">
+<a href="http://ez.no/doc" title="文档" target="_blank"><span class="hide">文档</span>?</a>
+</div>
+<!-- eZ website toolbar content: END -->
+
+</div>
+</div>
+
+
+<script type="text/javascript">
+<!--
+(function()
+{
+    var body = document.body, ezwt = document.getElementById( 'ezwt' );
+    if ( !ezwt ) return;
+    if ( body.className.indexOf('ie6') !== -1 ) return;
+
+    if ( body.className )
+        body.className += ' floating-wt';
+    else
+        body.className = 'floating-wt';
+
+    // Set padding on header / body based on height of toolbar
+    var page = document.getElementById( 'page' )
+    if ( page )
+        page.getElementsByTagName('div')[0].style.paddingTop = ezwt.offsetHeight + 'px';
+    else
+        body.style.paddingTop = ezwt.offsetHeight + 'px';
+})();
+//-->
+</script>
+
+
+<!-- eZ website toolbar: END -->
+  </div>    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+                <div id="sidemenu-position">
+      <div id="sidemenu">
+                    <div class="border-box">
+<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
+<div class="border-ml"><div class="border-mr"><div class="border-mc">
+    <h4><a href="/index.php/node_214">中医病案库</a></h4>
+    
+            <ul class="menu-list">
+                    
+                                                    <li class="firstli"><div class="second_level_menu"><a href="/index.php/node_214/node_219">码表</a></div>
+            
+                        </li>
+                    
+                                                                                <li><div class="second_level_menu"><a href="/index.php/node_214/node_220" class="selected current">基本信息</a></div>
+            
+                                                                                </li>
+                    
+                                                                                <li class="lastli"><div class="second_level_menu"><a href="/index.php/node_214/node_221">病案</a></div>
+            
+                        </li>
+                </ul>
+        
+</div></div></div>
+<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
+</div>
+               </div>
+    </div>        <!-- Side menu area: END -->
+
+  

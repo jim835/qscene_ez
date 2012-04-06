@@ -1,0 +1,105 @@
+
+<div id="path">
+<div id="path-design">
+    
+<p class="path"><span class="path-here-text">你的位置:</span>                    <a class="path" href="/index.php/ezwebin_site_admin/class/grouplist">类组</a>
+            
+            <span class="slash">/</span>
+                        <a class="path" href="/index.php/ezwebin_site_admin/class/classlist/1">Content</a>
+            
+            <span class="slash">/</span>
+                <span class="path">Multicalendar</span>
+    
+    &nbsp;</p></div>
+</div>
+
+<hr class="hide" />
+
+    <div id="leftmenu">
+<div id="leftmenu-design">
+    
+            
+    
+    
+
+        
+    
+    
+    
+            <div class="box-header"><div class="box-ml">
+        <h4>设置</h4>
+        </div></div>
+
+        <div class="box-bc"><div class="box-ml"><div class="box-content">
+
+                    <ul class="leftmenu-items">
+                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/setup/cache">缓存管理</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/class/grouplist">类</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/infocollector/overview">已收集的信息</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/setup/extensions">扩展</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/settings/view">Ini设置</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/content/translations">语言</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/visual/menuconfig">菜单管理</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/pdf/list">PDF导出</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/package/list">软件包</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/setup/rad">快速应用程序开发（RAD）</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/rss/list">RSS</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/search/stats">搜索统计</a></div></li>
+                                                                                                                
+                                                    <li><div><a href="/index.php/ezwebin_site_admin/section/list">分区</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/setup/session">会话</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/state/groups">对象状态</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/setup/info">系统信息</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/setup/systemupgrade">检查更新</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/trigger/list">触发器</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/url/list">链接管理</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/content/urltranslator">URL翻译器</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/content/urlwildcards">URL通配符</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/workflow/grouplist">工作流</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/ezwebin_site_admin/workflow/processlist">工作流进程</a></div></li>
+                                                                                                                
+                                                    <li><div><a href="/index.php/ezwebin_site_admin/oauthadmin/list">oAuth管理</a></div></li>
+                                        </ul>
+        
+        </div></div></div>
+        
+
+<div id="widthcontrol-links" class="widthcontrol">
+<p>    <span class="current">小</span>
+    <a href="/index.php/ezwebin_site_admin/user/preferences/set/admin_left_menu_size/medium" title="将左侧菜单的宽度修改为中等尺寸。">中</a>
+    <a href="/index.php/ezwebin_site_admin/user/preferences/set/admin_left_menu_size/large" title="将左侧菜单的宽度修改为大尺寸。">大</a>
+    </p>
+</div>
+
+
+<div id="widthcontrol-handler" class="hide">
+<div class="widthcontrol-grippy"></div>
+</div>
+
+    
+</div>
+</div>
+
+<hr class="hide" />

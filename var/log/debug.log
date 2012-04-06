@@ -1,0 +1,1062 @@
+[ Apr 05 2012 10:07:01 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:07:01 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:07:12 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:07:12 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'lib/template'. The untranslated message is: 'The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.'
+[ Apr 05 2012 10:07:14 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:07:14 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:07:18 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:07:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID and Object Remote ID'
+[ Apr 05 2012 10:07:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID'
+[ Apr 05 2012 10:07:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Object Remote ID'
+[ Apr 05 2012 10:07:22 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:07:22 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:07:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:07:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:07:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:07:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 10:07:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 10:07:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 10:07:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 10:07:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 10:07:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:16:20 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:16:20 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:17:14 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:17:14 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID and Object Remote ID'
+[ Apr 05 2012 10:17:14 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID'
+[ Apr 05 2012 10:17:14 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Object Remote ID'
+[ Apr 05 2012 10:17:19 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:17:19 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:17:20 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:17:20 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 10:17:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:17:32 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:17:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:19:43 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:19:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID and Object Remote ID'
+[ Apr 05 2012 10:19:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID'
+[ Apr 05 2012 10:19:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Object Remote ID'
+[ Apr 05 2012 10:19:46 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:19:46 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 10:19:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:19:54 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:19:54 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:20:02 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:20:02 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:21:49 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:21:49 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:25:30 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:25:30 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:25:55 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:25:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:28:07 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:28:07 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:31:41 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:31:41 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:31:44 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:31:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:31:57 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:31:57 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:32:13 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:32:13 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:32:30 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:32:30 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:32:58 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:32:58 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:33:22 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:33:22 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID and Object Remote ID'
+[ Apr 05 2012 10:33:22 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID'
+[ Apr 05 2012 10:33:22 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Object Remote ID'
+[ Apr 05 2012 10:33:27 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:33:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:33:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:33:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:33:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:33:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 10:33:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 10:33:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 10:33:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 10:33:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 10:33:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:33:41 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:33:41 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'lib/template'. The untranslated message is: 'The maximum nesting level of %max has been reached. The execution is stopped to avoid infinite recursion.'
+[ Apr 05 2012 10:33:41 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/content'. The untranslated message is: 'Top Level Nodes'
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/classes/datatypes' with comment: 'Datatype name'. The untranslated message is: 'Text line'
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/classes/datatypes' with comment: 'Datatype name'. The untranslated message is: 'Object relation'
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/classes/datatypes' with comment: 'Datatype name'. The untranslated message is: 'XML block'
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/classes/datatypes' with comment: 'Datatype name'. The untranslated message is: 'Keywords'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'Content structure'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'Media library'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'User accounts'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'Webshop'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'Design'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'Setup'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'My account'
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:36:32 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:36:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:39:11 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:39:11 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:41:05 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:41:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:42:26 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:42:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID and Object Remote ID'
+[ Apr 05 2012 10:42:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID'
+[ Apr 05 2012 10:42:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Object Remote ID'
+[ Apr 05 2012 10:42:30 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:42:30 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 10:42:35 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:42:44 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:42:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID and Object Remote ID'
+[ Apr 05 2012 10:42:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID'
+[ Apr 05 2012 10:42:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Object Remote ID'
+[ Apr 05 2012 10:42:49 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:42:49 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 10:42:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:48:41 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 10:48:41 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:48:47 ] [127.0.0.1] Timing Point: Module end 'class'
+[ Apr 05 2012 10:48:47 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:48:53 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 10:48:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:49:30 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:49:30 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:55:00 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 10:55:00 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 10:55:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:55:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 10:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 10:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 10:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 10:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 10:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 10:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 10:56:00 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:56:00 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:06:27 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:06:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:11:03 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 11:11:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:11:08 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 11:11:08 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 11:11:08 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 11:11:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 11:11:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 11:11:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 11:11:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 11:11:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 11:11:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 11:11:16 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 11:11:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:11:27 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 11:11:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:12:20 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 11:12:20 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:12:44 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:12:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:17:02 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:17:02 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:26:56 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:26:56 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:30:15 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:30:15 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:44:30 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:44:30 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 11:54:18 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:54:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:05:10 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 12:05:10 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:05:14 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 12:05:14 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 12:05:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:05:26 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 12:05:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:05:33 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:05:33 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:05:47 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:05:47 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:06:24 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:06:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:06:58 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 12:06:58 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:07:02 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 12:07:03 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:07:13 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:07:13 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:09:40 ] [192.168.1.7] Timing Point: Module end 'content'
+[ Apr 05 2012 12:09:40 ] [192.168.1.7] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:14:49 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 12:14:49 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 12:14:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:27:01 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 12:27:01 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:27:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:27:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 12:27:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:27:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 12:27:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 12:27:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 12:27:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 12:27:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 12:27:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 12:27:18 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:27:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:39:36 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:39:36 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:39:41 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:39:41 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:41:06 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:41:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:41:55 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:41:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:44:02 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:44:02 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:44:07 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:44:07 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:44:08 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:44:08 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 12:58:20 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:58:20 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:04:17 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:04:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:28:59 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:28:59 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:30:43 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:30:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:36:12 ] [127.0.0.1] Timing Point: Module end 'ezjscore'
+[ Apr 05 2012 13:36:12 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:37:56 ] [127.0.0.1] Timing Point: Module end 'ezjscore'
+[ Apr 05 2012 13:37:56 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:38:19 ] [127.0.0.1] Timing Point: Module end 'error'
+[ Apr 05 2012 13:38:19 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:40:45 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:40:45 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:42:21 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:42:21 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:46:17 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:46:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:52:09 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:52:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 13:55:04 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 13:55:04 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 14:07:00 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:07:00 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 14:12:24 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:12:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 14:15:40 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:15:40 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 14:18:15 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:18:15 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 14:19:19 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:19:19 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:32:57 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 15:32:57 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:33:02 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:33:02 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:33:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:33:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:33:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:33:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 15:33:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 15:33:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 15:33:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 15:33:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 15:33:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:33:20 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:33:20 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 15:33:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:33:30 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:33:30 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:34:11 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:34:11 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:34:24 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:34:24 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:34:29 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:34:29 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:34:40 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:34:40 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 15:34:44 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:34:51 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:34:51 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:34:54 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 15:34:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:35:33 ] [127.0.0.1] Timing Point: Module end 'class'
+[ Apr 05 2012 15:35:33 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:35:37 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:35:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:38:52 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 15:38:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:39:16 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 15:39:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:44:55 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 15:44:55 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:47:18 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 15:47:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:47:30 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:47:30 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Edit'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'eZ Image Editor'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Save and Close'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Save &amp; Close'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Close without saving'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Quit'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Thumbnail'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Rotation'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Ok'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Select'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Dimensions'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Keep ratio'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Free'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Crop'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Zoom'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Actual pixels'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Fit on screen'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Watermarks'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Apply'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Contrast'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Apply'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Brightness'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Apply'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Actions'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Tools'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Select'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Zoom'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Undo'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Redo'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Image'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Horizontal Flip'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Horizontal Flip'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Vertical Flip'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Vertical Flip'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Rotation'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Rotation'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Crop'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Perform Crop'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Watermark'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Watermark'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Effects'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Contrast'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Contrast'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Brightness'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Brightness'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Pixelate'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Pixelate'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Black and White'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Black and White'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Sepia'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Sepia'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Options'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'The image is not loaded because of a server error.'
+[ Apr 05 2012 15:47:31 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Close'
+[ Apr 05 2012 15:47:32 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 15:47:32 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Edit'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'eZ Image Editor'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Save and Close'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Save &amp; Close'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Close without saving'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Quit'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Thumbnail'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Rotation'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Ok'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Select'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Dimensions'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Keep ratio'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Free'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Crop'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Zoom'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Actual pixels'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Fit on screen'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Watermarks'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Apply'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Contrast'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Apply'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Brightness'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Apply'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Actions'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Tools'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Select'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Zoom'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Undo'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Redo'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Image'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Horizontal Flip'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Horizontal Flip'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Vertical Flip'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Vertical Flip'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Rotation'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Rotation'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Crop'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Perform Crop'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Watermark'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Watermark'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Effects'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Contrast'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Contrast'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Brightness'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Brightness'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Pixelate'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Pixelate'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Black and White'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Black and White'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Sepia'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Sepia'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Options'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'The image is not loaded because of a server error.'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/standard/ezie'. The untranslated message is: 'Close'
+[ Apr 05 2012 15:51:18 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 15:51:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:51:37 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 15:51:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:55:11 ] [127.0.0.1] Timing Point: Module end 'setup'
+[ Apr 05 2012 15:55:11 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 15:55:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 16:12:59 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:12:59 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:19:05 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:19:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:19:36 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:19:36 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:22:17 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:22:17 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:22:27 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:22:27 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:23:37 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:23:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:23:45 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:23:45 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:24:01 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:24:01 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:24:06 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:24:06 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:24:11 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:24:11 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:26:26 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:26:26 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:26:46 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 16:26:46 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:53:41 ] [127.0.0.1] Timing Point: Module end 'visual'
+[ Apr 05 2012 16:53:41 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 16:53:43 ] [127.0.0.1] Timing Point: Module end 'visual'
+[ Apr 05 2012 16:53:43 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 17:02:56 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 17:02:56 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID and Object Remote ID'
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Node Remote ID'
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/node/view/full'. The untranslated message is: 'Object Remote ID'
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'design/admin/popupmenu'. The untranslated message is: 'Upload multiple files'
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Edit tag'
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Delete tag'
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Merge tag'
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add synonym'
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Convert to synonym'
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'extension/eztags/tags/edit'. The untranslated message is: 'Add child tag'
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 17:28:58 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 17:28:58 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:29:53 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 19:29:53 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: sdfsdfsd
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: wewsdfsdf
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: lskdjfslkjelksjdlkf
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: Hello jim
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] Timing Point: Module end 'error'
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] Timing Point: Module end 'error'
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] Timing Point: Module end 'content'
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] ezpI18n::translateText:
+Missing translation for message in context: 'kernel/navigationpart' with comment: 'Navigation part'. The untranslated message is: 'eZTags'

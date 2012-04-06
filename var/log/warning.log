@@ -1,0 +1,1096 @@
+[ Apr 05 2012 10:07:13 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:07:13 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:07:13 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:07:13 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:07:14 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:16:20 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:16:20 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "pagelayout.tpl" using resource "design"
+[ Apr 05 2012 10:17:19 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:17:19 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:17:19 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:17:19 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:17:20 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:25:54 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:25:54 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:25:54 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:25:54 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:25:55 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:28:06 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:28:06 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:28:06 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:28:06 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:28:06 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:31:36 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 10:31:36 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 10:31:40 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:31:40 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:31:40 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:31:40 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:31:40 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:31:56 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:31:56 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:31:56 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:31:56 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:31:57 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:33:35 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 10:33:35 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:33:42 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:33:43 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:36:28 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 10:36:28 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 10:36:32 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:36:32 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:36:32 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:36:32 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:36:32 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:39:07 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 10:39:07 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 10:39:11 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:39:11 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:39:11 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:39:11 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:39:11 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:41:01 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 10:41:01 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 10:41:05 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:41:05 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:41:05 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:41:05 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:41:05 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:42:36 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 10:42:36 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 10:49:26 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 10:49:26 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 10:49:29 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:49:29 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 10:49:29 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 10:49:29 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 10:49:30 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 10:56:00 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 10:56:00 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 10:56:00 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 10:56:00 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 10:56:00 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 11:06:27 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:06:27 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 11:06:27 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 11:06:27 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 11:06:27 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 11:12:44 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:12:44 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 11:12:44 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 11:12:44 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 11:12:44 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 11:16:58 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 11:16:58 ] [127.0.0.1] :
+Extension 'qstest' does not have the subdirectory 'modules' allthough it reported it had modules.
+Looked for directory 'extension/qstest/modules'
+Check the setting ModuleSettings/ExtensionRepositories in module.ini for your extension.
+[ Apr 05 2012 11:17:01 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:17:01 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:17:02 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 11:17:02 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 11:17:02 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 11:17:02 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 11:21:21 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 11:21:21 ] [127.0.0.1] :
+Extension 'qstest' does not have the subdirectory 'modules' allthough it reported it had modules.
+Looked for directory 'extension/qstest/modules'
+Check the setting ModuleSettings/ExtensionRepositories in module.ini for your extension.
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 11:21:25 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 11:23:45 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 11:23:45 ] [127.0.0.1] :
+Extension 'qstest' does not have the subdirectory 'modules' allthough it reported it had modules.
+Looked for directory 'extension/qstest/modules'
+Check the setting ModuleSettings/ExtensionRepositories in module.ini for your extension.
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 11:23:49 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 11:26:55 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:26:55 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:26:56 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 11:26:56 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:26:56 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 11:26:56 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 11:30:14 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:30:14 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:30:15 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 11:30:15 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 11:30:15 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 11:30:15 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 11:40:45 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 11:44:30 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:44:30 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:44:30 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 11:44:31 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:44:31 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 11:44:31 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 11:47:24 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design//javascript/insertmedia.js, extension/ezwebin/design//javascript/insertmedia.js, extension/ezoe/design//javascript/insertmedia.js, extension/ezie/design//javascript/insertmedia.js, extension/ezgmaplocation/design//javascript/insertmedia.js, extension/ezstarrating/design//javascript/insertmedia.js, extension/ezautosave/design//javascript/insertmedia.js, extension/eztags/design//javascript/insertmedia.js, extension/qstest/design//javascript/insertmedia.js, extension/ezodf/design//javascript/insertmedia.js, extension/ezjscore/design//javascript/insertmedia.js, extension/ezmultiupload/design//javascript/insertmedia.js, design//javascript/insertmedia.js, design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 11:48:24 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js, design/base/javascript/insertmedia.js
+[ Apr 05 2012 11:54:18 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 11:54:18 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 11:54:18 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 11:54:19 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 11:54:19 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 11:54:19 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js, extension/qstest/design/qstest/javascript/insertmedia.js, design/base/javascript/insertmedia.js
+[ Apr 05 2012 12:05:10 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 12:05:10 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:05:14 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 12:05:14 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:05:25 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 12:05:25 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:05:33 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:05:33 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:05:33 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:05:33 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 12:05:33 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js, extension/qstest/design/qstest/javascript/insertmedia.js, design/base/javascript/insertmedia.js
+[ Apr 05 2012 12:05:46 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:05:46 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:05:46 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 12:05:46 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 12:05:46 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 12:05:47 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 12:06:24 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:06:24 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 12:06:34 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/qstime/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js, extension/qstest/design/qstest/javascript/insertmedia.js, design/base/javascript/insertmedia.js
+[ Apr 05 2012 12:06:56 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 12:06:56 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:07:13 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:07:13 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 12:07:13 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 12:07:13 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 12:07:13 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 12:09:39 ] [192.168.1.7] Timing Point: Module start 'content'
+[ Apr 05 2012 12:09:39 ] [192.168.1.7] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 12:09:39 ] [192.168.1.7] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 12:09:39 ] [192.168.1.7] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 12:09:39 ] [192.168.1.7] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 12:27:01 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 12:27:01 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:27:17 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:27:17 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:27:18 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:27:18 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 12:27:18 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js, extension/qstest/design/qstest/javascript/insertmedia.js, design/base/javascript/insertmedia.js
+[ Apr 05 2012 12:39:35 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:39:35 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:39:36 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:39:36 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 12:39:36 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js, design/base/javascript/insertmedia.js
+[ Apr 05 2012 12:39:41 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:39:41 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:39:41 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 12:39:41 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 12:39:41 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js, design/base/javascript/insertmedia.js
+[ Apr 05 2012 12:41:05 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:41:05 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:41:54 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:41:54 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:44:02 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:44:02 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:44:07 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:44:07 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:44:08 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:44:08 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 12:58:20 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 12:58:20 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 13:04:16 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:04:16 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 13:28:51 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:28:51 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 13:30:43 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:30:43 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 13:36:12 ] [127.0.0.1] Timing Point: Module end 'ezjscore'
+[ Apr 05 2012 13:36:12 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 13:37:56 ] [127.0.0.1] Timing Point: Module end 'ezjscore'
+[ Apr 05 2012 13:37:56 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 13:38:19 ] [127.0.0.1] Timing Point: Module start 'ezjscore'
+[ Apr 05 2012 13:38:19 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 13:40:45 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:40:45 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 13:40:45 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 13:40:45 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 13:40:45 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 13:42:20 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:42:20 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 13:42:20 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 13:42:20 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 13:42:21 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 13:46:17 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:46:17 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 13:46:17 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 13:46:17 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 13:46:17 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 13:49:00 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 13:49:00 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 13:51:58 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 13:51:58 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 13:52:09 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:52:09 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 13:52:09 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 13:52:09 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 13:52:09 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 13:54:59 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 13:54:59 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 13:55:04 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 13:55:04 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 13:55:04 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 13:55:04 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 13:55:04 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 14:06:55 ] [127.0.0.1] Timing Point: Script start
+[ Apr 05 2012 14:06:55 ] [127.0.0.1] PHP: E_WARNING:
+chmod(): Operation not permitted in /home/ez/ezpublish/ezpublish_community/lib/ezutils/classes/ezphpcreator.php on line 955
+[ Apr 05 2012 14:06:59 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 14:06:59 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 14:06:59 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 14:06:59 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 14:07:00 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 14:12:24 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 14:12:24 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 14:12:24 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:12:24 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 14:12:24 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 14:15:40 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 14:15:40 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 14:15:40 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 14:15:41 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:15:41 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 14:15:41 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 14:18:15 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 14:18:15 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 14:18:15 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "node/view/full.tpl" using resource "design"
+[ Apr 05 2012 14:18:16 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:18:16 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 14:18:16 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 14:19:19 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 14:19:19 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 14:19:19 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 14:19:19 ] [127.0.0.1] eZTemplate:ezdesign:
+Design element javascript/insertmedia.js does not exist in any design
+[ Apr 05 2012 14:19:19 ] [127.0.0.1] eZTemplate:ezdesign:
+Tried files: design/base/javascript/insertmedia.js, extension/ezwt/design/standard/javascript/insertmedia.js, extension/ezoe/design/standard/javascript/insertmedia.js, extension/ezie/design/standard/javascript/insertmedia.js, extension/ezgmaplocation/design/standard/javascript/insertmedia.js, extension/ezstarrating/design/standard/javascript/insertmedia.js, extension/ezautosave/design/standard/javascript/insertmedia.js, extension/eztags/design/standard/javascript/insertmedia.js, extension/ezodf/design/standard/javascript/insertmedia.js, extension/ezjscore/design/standard/javascript/insertmedia.js, extension/ezmultiupload/design/standard/javascript/insertmedia.js, design/standard/javascript/insertmedia.js
+[ Apr 05 2012 15:32:56 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 15:32:56 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:33:02 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:33:02 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:33:19 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:33:19 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:33:25 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:33:25 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:34:28 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:34:28 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:34:39 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:34:39 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:34:50 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:34:50 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:35:32 ] [127.0.0.1] Timing Point: Module start 'class'
+[ Apr 05 2012 15:35:32 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:35:37 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:35:37 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:38:51 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:38:51 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:38:51 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 15:38:51 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 15:38:51 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 15:38:52 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 15:39:15 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:39:15 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:39:15 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 15:39:15 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 15:39:15 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 15:39:16 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 15:44:54 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:44:54 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:44:54 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 15:44:54 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 15:44:54 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 15:44:55 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 15:47:18 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 15:47:18 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 15:47:22 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 15:47:29 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:47:29 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:51:16 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:51:36 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 15:51:36 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 15:51:37 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 15:51:37 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 15:51:37 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 15:51:37 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 15:55:11 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 15:55:11 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:12:57 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:12:57 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:12:58 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 16:12:58 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 16:12:58 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 16:12:58 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 16:19:03 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:19:03 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:19:04 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 16:19:04 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 16:19:04 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 16:19:04 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 16:19:35 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:19:35 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:19:36 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 16:19:36 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 16:19:36 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 16:19:36 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 16:22:16 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:22:16 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:22:17 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 16:22:17 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 16:22:17 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 16:22:17 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 16:22:26 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:22:26 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:23:36 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:23:36 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:23:45 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:23:45 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:24:01 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:24:01 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:24:06 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:24:06 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:24:11 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:24:11 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:26:26 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:26:26 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:26:46 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 16:26:46 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:53:39 ] [127.0.0.1] Timing Point: Module start 'visual'
+[ Apr 05 2012 16:53:39 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 16:53:43 ] [127.0.0.1] Timing Point: Module start 'visual'
+[ Apr 05 2012 16:53:43 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 17:02:55 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 17:02:55 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 17:02:56 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #105
+[ Apr 05 2012 17:02:56 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #106
+[ Apr 05 2012 17:02:56 ] [127.0.0.1] XML output handler: embed:
+Can't fetch object #161
+[ Apr 05 2012 17:02:56 ] [127.0.0.1] XML output handler: link:
+Object #136 doesn't exist
+[ Apr 05 2012 17:21:13 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 17:21:13 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:21 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:22 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:23 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:23 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:23 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:23 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:23 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:23 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:24 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:24 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:21:24 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:21:24 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:53 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:53 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:53 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:53 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:53 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:53 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:54 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:55 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:56 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:57 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:57 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:57 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:57 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:58 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:58 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:58 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:58 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:59 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:59 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:59 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:59 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:27:59 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:27:59 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:00 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:28:00 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:00 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:28:00 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:00 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:28:00 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:01 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:28:01 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:01 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:28:01 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:02 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:28:02 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:02 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 17:28:02 ] [127.0.0.1] PHP: E_WARNING:
+Invalid argument supplied for foreach() in /home/ez/ezpublish/ezpublish_community/kernel/setup/settingstoolbar.php on line 27
+[ Apr 05 2012 17:28:17 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 17:28:17 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 17:28:56 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 17:28:56 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:29:52 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 19:29:52 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:29:58 ] [127.0.0.1] Timing Point: Module start 'setup'
+[ Apr 05 2012 19:29:58 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "qstest/call.tpl" using resource "design"
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] eZTemplate:
+No template could be loaded for "qstest/call.tpl" using resource "design"
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: sdfsdfsd
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: wewsdfsdf
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:37:14 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:14 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: lskdjfslkjelksjdlkf
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: Hello jim
+[ Apr 05 2012 19:37:38 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 19:37:38 ] [127.0.0.1] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] Timing Point: Script start
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] Timing Point: Script start
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] Timing Point: Module start 'content'
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] :
+Path 'extension/qstest/autoloads/' does not have the file 'eztemplateautoload.php' allthough it reported it had one.
+Looked for file 'extension/qstest/autoloads/eztemplateautoload.php'
+Check the setting [TemplateSettings]/ExtensionAutoloadPath or AutoloadPathList in your site.ini settings.
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] XML output handler: embed:
+Can't fetch object #105
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] XML output handler: embed:
+Can't fetch object #106
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] XML output handler: embed:
+Can't fetch object #161
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] XML output handler: link:
+Object #136 doesn't exist

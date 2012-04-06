@@ -1,0 +1,203 @@
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_head.tpl (extension/ezwebin/design/ezwebin/templates/page_head.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_head.tpl</p><br/>
+                          <title>kernel (21) / 错误 - Website Interface</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="zh-CN" />
+
+                    <meta name="author" content="QS" />
+    
+                <meta name="copyright" content="QS" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+    
+    
+    <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/canonical_link.tpl (extension/ezwebin/design/ezwebin/templates/canonical_link.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/canonical_link.tpl</p><br/>
+
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/canonical_link.tpl (extension/ezwebin/design/ezwebin/templates/canonical_link.tpl) -->
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/link.tpl (extension/ezwebin/design/ezwebin/templates/link.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/link.tpl</p><br/>
+
+<link rel="Home" href="/index.php/chi" title="Website Interface首页" />
+<link rel="Index" href="/index.php/chi" />
+<link rel="Top"  href="/index.php/chi" title="kernel (21) / 错误 - Website Interface" />
+<link rel="Search" href="/index.php/chi/content/advancedsearch" title="搜索Website Interface" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php/chi/ezinfo/copyright" />
+<link rel="Author" href="/index.php/chi/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/index.php/chi/rss/feed/my_feed" />
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/index.php/chi/layout/set/print/ezjscore" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "打印机版本";
+    head.appendChild(printNode);
+})();
+</script>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/link.tpl (extension/ezwebin/design/ezwebin/templates/link.tpl) -->
+
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_head.tpl (extension/ezwebin/design/ezwebin/templates/page_head.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_head_style.tpl (extension/ezwebin/design/ezwebin/templates/page_head_style.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_head_style.tpl</p><br/>
+      <link rel="stylesheet" type="text/css" href="/var/ezwebin_site/cache/public/stylesheets/15a147953142b26d5cdb1572050169e7_all.css" />
+
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/classes-colors.css" />
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/site-colors.css" />
+<link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_head_style.tpl (extension/ezwebin/design/ezwebin/templates/page_head_style.tpl) -->
+
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_head_script.tpl (extension/ezwebin/design/ezwebin/templates/page_head_script.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_head_script.tpl</p><br/>
+
+<script type="text/javascript" src="/extension/ezwebin/design/ezwebin/javascript/insertmedia.js" charset="utf-8"></script>
+
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_head_script.tpl (extension/ezwebin/design/ezwebin/templates/page_head_script.tpl) -->
+
+</head>
+
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+<!-- Complete page area: START -->
+
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="nosidemenu noextrainfo">
+
+  
+  <!-- Header area: START -->
+  
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_header.tpl (extension/ezwebin/design/ezwebin/templates/page_header.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_header.tpl</p><br/>
+  <div id="header-position">
+  <div id="header" class="float-break">
+    <div id="usermenu">
+      
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl (extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl</p><br/>
+<div id="languages">
+    <ul>
+                            <li class="current_siteaccess"><a href="/index.php/chi/switchlanguage/to/chi/ezjscore">Chi</a></li>
+            <li><a href="/index.php/chi/switchlanguage/to/eng/ezjscore">Eng</a></li>
+        </ul>
+</div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl (extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl) -->
+  
+      
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_header_links.tpl (extension/ezwebin/design/ezwebin/templates/page_header_links.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_header_links.tpl</p><br/>
+<div id="links">
+    <ul>
+                                <li id="tagcloud"><a href="/index.php/chi/content/view/tagcloud/2" title="云标签">云标签</a></li>
+                                                    <li id="sitemap"><a href="/index.php/chi/content/view/sitemap/2" title="网站地图">网站地图</a></li>
+                                                <li id="registeruser"><a href="/index.php/chi/user/register" title="注册">注册</a></li>
+                        <li id="login"><a href="/index.php/chi/user/login" title="登录">登录</a></li>
+            
+        </ul>
+</div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_header_links.tpl (extension/ezwebin/design/ezwebin/templates/page_header_links.tpl) -->
+    </div>
+
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_header_logo.tpl (extension/ezwebin/design/ezwebin/templates/page_header_logo.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_header_logo.tpl</p><br/>
+<div id="logo">    <h1><a href="/index.php/chi" title="Website Interface">Website Interface</a></h1></div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_header_logo.tpl (extension/ezwebin/design/ezwebin/templates/page_header_logo.tpl) -->
+    
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_header_searchbox.tpl (extension/ezwebin/design/ezwebin/templates/page_header_searchbox.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_header_searchbox.tpl</p><br/>
+<div id="searchbox">
+  <form action="/index.php/chi/content/search">
+  <div id="searchbox-inner">
+    <label for="searchtext" class="hide">Search text:</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" />
+    <input id="searchbutton" class="button" type="submit" value="搜索" title="搜索" />
+              </div>
+  </form>
+</div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_header_searchbox.tpl (extension/ezwebin/design/ezwebin/templates/page_header_searchbox.tpl) -->
+    
+    <p class="hide"><a href="#main">Skip to main content</a></p>
+  </div>
+  </div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_header.tpl (extension/ezwebin/design/ezwebin/templates/page_header.tpl) -->
+  <!-- Header area: END -->
+
+  
+  <!-- Top menu area: START -->
+      
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl (extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl</p><br/>
+  <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/menu/flat_top.tpl (design:menu/flat_top.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/menu/flat_top.tpl</p><br/>
+<div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                                                       
+                            <li id="node_id_214" class="firstli lastli"><div><a href="/index.php/chi/node_214"><span>中医病案库</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/menu/flat_top.tpl (design:menu/flat_top.tpl) -->
+  </div>
+  </div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl (extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl) -->
+    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+      
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_toppath.tpl (extension/ezwebin/design/ezwebin/templates/page_toppath.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_toppath.tpl</p><br/>
+  <div id="path">
+    
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/parts/path.tpl (design:parts/path.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/parts/path.tpl</p><br/>
+  <!-- Path content: START -->
+  <p>
+        <span class="path-text">错误</span>
+      <span class="path-separator">/</span>      <span class="path-text">kernel (21)</span>
+        </p>
+  <!-- Path content: END -->
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/parts/path.tpl (design:parts/path.tpl) -->
+  </div>
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_toppath.tpl (extension/ezwebin/design/ezwebin/templates/page_toppath.tpl) -->
+    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

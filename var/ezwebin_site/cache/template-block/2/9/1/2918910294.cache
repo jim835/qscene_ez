@@ -1,0 +1,29 @@
+    <hr class="hide" />
+
+    <div id="columns">
+
+        
+<!-- START: including template: design/base/templates/menu/flat_left.tpl (design/base/templates/menu/flat_left.tpl) -->
+<p class="small">design/base/templates/menu/flat_left.tpl</p><br/>
+<div id="leftmenu">
+<div id="leftmenu-design">
+
+<h3 class="hide">左侧菜单</h3>
+                <ul>
+                                                        
+                            <li class="menu-level-0">
+            
+            <a  href="/index.php/chi/node_214">中医病案库</a>
+
+                               </li>
+
+                </ul>
+        
+</div>
+</div>
+
+
+<!-- STOP: including template: design/base/templates/menu/flat_left.tpl (design/base/templates/menu/flat_left.tpl) -->
+
+        <hr class="hide" />
+    

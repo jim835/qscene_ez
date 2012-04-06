@@ -1,0 +1,34 @@
+
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                                                       
+                            <li id="node_id_214" class="firstli lastli"><div><a href="/index.php/chi/node_214" onclick="return false;"><span>中医病案库</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+        <div id="path">
+      <!-- Path content: START -->
+  <p>
+        <a href="/index.php/chi/Design">Design</a>
+      <span class="path-separator">/</span>      <a href="/index.php/chi/Design/Website-Interface">Website Interface</a>
+        </p>
+  <!-- Path content: END -->  </div>    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  

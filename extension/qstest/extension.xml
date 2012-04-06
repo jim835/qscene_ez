@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>QS Test extension</name>
+        <version>0.0.1-dev</version>
+        <copyright>Copyright (C) 1999-2012 QS</copyright>
+        <license>GNU General Public License v2</license>
+        <info_url>https://www.qs.com.cn</info_url>
+    </metadata>
+</software>

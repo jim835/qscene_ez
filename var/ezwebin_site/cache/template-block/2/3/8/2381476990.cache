@@ -1,0 +1,160 @@
+                          <title>中医病案库 / 首页 - Website Interface</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="en-GB" />
+
+                    <meta name="author" content="QS" />
+    
+                <meta name="copyright" content="QS" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+    
+    
+    <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+        
+    <link rel="canonical" href="http://localhost/index.php/chi/node_214" />    
+<link rel="Home" href="/index.php/eng" title="Website Interface front page" />
+<link rel="Index" href="/index.php/eng" />
+<link rel="Top"  href="/index.php/eng" title="中医病案库 / 首页 - Website Interface" />
+<link rel="Search" href="/index.php/eng/content/advancedsearch" title="Search Website Interface" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php/eng/ezinfo/copyright" />
+<link rel="Author" href="/index.php/eng/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/index.php/eng/rss/feed/my_feed" />
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/index.php/eng/layout/set/print/node_214" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "Printable version";
+    head.appendChild(printNode);
+})();
+</script>      <link rel="stylesheet" type="text/css" href="/var/ezwebin_site/cache/public/stylesheets/e3e206122175f7c083c2650fb8c016f9_all.css" />
+
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/classes-colors.css" />
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/site-colors.css" />
+<link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+<script type="text/javascript" src="/extension/ezwebin/design/ezwebin/javascript/insertmedia.js" charset="utf-8"></script>
+
+</head>
+
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+<!-- Complete page area: START -->
+
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="sidemenu noextrainfo section_id_1 subtree_level_0_node_id_2 subtree_level_1_node_id_214">
+
+  
+  <!-- Header area: START -->
+    <div id="header-position">
+  <div id="header" class="float-break">
+    <div id="usermenu">
+      <div id="languages">
+    <ul>
+                            <li><a href="/index.php/eng/switchlanguage/to/chi/node_214">Chi</a></li>
+            <li class="current_siteaccess"><a href="/index.php/eng/switchlanguage/to/eng/node_214">Eng</a></li>
+        </ul>
+</div>  
+      <div id="links">
+    <ul>
+                                <li id="tagcloud"><a href="/index.php/eng/content/view/tagcloud/2" title="云标签">云标签</a></li>
+                                                    <li id="sitemap"><a href="/index.php/eng/content/view/sitemap/2" title="网站地图">网站地图</a></li>
+                                                <li id="registeruser"><a href="/index.php/eng/user/register" title="注册">注册</a></li>
+                        <li id="login"><a href="/index.php/eng/user/login" title="登录">登录</a></li>
+            
+        </ul>
+</div>    </div>
+
+    <div id="logo">    <h1><a href="/index.php/eng" title="Website Interface">Website Interface</a></h1></div>    
+    <div id="searchbox">
+  <form action="/index.php/eng/content/search">
+  <div id="searchbox-inner">
+    <label for="searchtext" class="hide">Search text:</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" />
+    <input id="searchbutton" class="button" type="submit" value="Search" title="Search" />
+              </div>
+  </form>
+</div>    
+    <p class="hide"><a href="#main">Skip to main content</a></p>
+  </div>
+  </div>  <!-- Header area: END -->
+
+  
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                                                                                   
+                            <li id="node_id_214" class="selected firstli lastli current"><div><a href="/index.php/eng/node_214"><span>中医病案库</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+        <div id="path">
+      <!-- Path content: START -->
+  <p>
+        <a href="/index.php/eng">首页</a>
+      <span class="path-separator">/</span>      <span class="path-text">中医病案库</span>
+        </p>
+  <!-- Path content: END -->  </div>    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+                <div id="sidemenu-position">
+      <div id="sidemenu">
+                    <div class="border-box">
+<div class="border-tl"><div class="border-tr"><div class="border-tc"></div></div></div>
+<div class="border-ml"><div class="border-mr"><div class="border-mc">
+    <h4><a href="/index.php/eng/node_214">中医病案库</a></h4>
+    
+            <ul class="menu-list">
+                    
+                                                    <li class="firstli"><div class="second_level_menu"><a href="/index.php/eng/node_214/node_219">码表</a></div>
+            
+                        </li>
+                    
+                                                    <li><div class="second_level_menu"><a href="/index.php/eng/node_214/node_220">基本信息</a></div>
+            
+                        </li>
+                    
+                                                                                <li class="lastli"><div class="second_level_menu"><a href="/index.php/eng/node_214/node_221">病案</a></div>
+            
+                        </li>
+                </ul>
+        
+</div></div></div>
+<div class="border-bl"><div class="border-br"><div class="border-bc"></div></div></div>
+</div>
+               </div>
+    </div>        <!-- Side menu area: END -->
+
+  

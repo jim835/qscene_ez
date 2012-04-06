@@ -1,0 +1,33 @@
+
+    
+    <!-- Extra area: START -->
+        <!-- Extra area: END -->
+
+  </div>
+  </div>
+  <!-- Columns area: END -->
+
+  <!-- Footer area: START -->
+  
+<!-- START: including template: extension/qstest/design/qstest/templates/page_footer.tpl (extension/qstest/design/qstest/templates/page_footer.tpl) -->
+<p class="small">extension/qstest/design/qstest/templates/page_footer.tpl</p><br/>
+  <!-- Footer area: START -->
+  <div id="footer">
+    <address>
+        Powered by <a href="http://qscene.com.cn" title="QScene&#8482; company.">QScene&#8482; company.</a>. 
+    </address>
+  </div>
+  <!-- Footer area: END -->
+
+<!-- STOP: including template: extension/qstest/design/qstest/templates/page_footer.tpl (extension/qstest/design/qstest/templates/page_footer.tpl) -->
+  <!-- Footer area: END -->
+
+</div>
+<!-- Complete page area: END -->
+
+<!-- Footer script area: START -->
+<!-- START: including template: extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl (extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl) -->
+<p class="small">extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl</p><br/>
+
+<!-- STOP: including template: extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl (extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl) -->
+<!-- Footer script area: END -->

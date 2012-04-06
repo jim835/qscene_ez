@@ -1,0 +1,171 @@
+
+<h2>我最近的内容</h2>
+
+<table class="list" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <th>名称</th>
+        <th>类型</th>
+        <th>更改时间</th>
+        <th class="tight"></th>
+    </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_214/node_219/node_223" title="女">女</a>
+            </td>
+            <td>
+                性别
+            </td>
+            <td>
+                2012.04.01
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/221/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;女&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_214/node_219/node_222" title="男">男</a>
+            </td>
+            <td>
+                性别
+            </td>
+            <td>
+                2012.04.01
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/220/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;男&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_214/node_221" title="病案">病案</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                2012.04.01
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/219/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;病案&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_214/node_220" title="基本信息">基本信息</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                2012.04.01
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/218/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;基本信息&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_214/node_219" title="码表">码表</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                2012.04.01
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/217/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;码表&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_215" title="隐藏文件夹">隐藏文件夹</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                2012.04.01
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/213/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;隐藏文件夹&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_214" title="中医病案库">中医病案库</a>
+            </td>
+            <td>
+                Folder
+            </td>
+            <td>
+                2012.04.01
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/212/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;中医病案库&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/eZ-Highlights/Building-Mobile-Apps-with-the-REST-API-Tutorial" title="Building Mobile Apps with the REST API Tutorial">Building Mobile Apps with t...</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                2011.10.24
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/134/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;Building Mobile Apps with the REST API Tutorial&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bglight">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/eZ-Highlights/REST-API-Presentation" title="REST API Presentation">REST API Presentation</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                2011.10.24
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/133/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;REST API Presentation&gt;。" />
+                </a>
+                        </td>
+        </tr>
+            <tr class="bgdark">
+            <td>
+                <a href="/index.php/ezwebin_site_admin/node_215/Getting-started/eZ-Highlights/eZ-Publish-Public-API" title="eZ Publish Public API">eZ Publish Public API</a>
+            </td>
+            <td>
+                Article
+            </td>
+            <td>
+                2011.10.24
+            </td>
+            <td>
+                            <a href="/index.php/ezwebin_site_admin/content/edit/132/f/chi-CN">
+                    <img src="/design/standard/images/edit.gif" width="16" height="16" alt="编辑" title="编辑 &lt;eZ Publish Public API&gt;。" />
+                </a>
+                        </td>
+        </tr>
+    </table>

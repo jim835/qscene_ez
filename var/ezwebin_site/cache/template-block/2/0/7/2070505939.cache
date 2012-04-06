@@ -1,0 +1,81 @@
+
+<div id="path">
+<div id="path-design">
+    
+<p class="path"><span class="path-here-text">你的位置:</span>                    <span class="disabled">类组</span>
+            
+            <span class="slash">/</span>
+                        <span class="disabled">病案组</span>
+            
+            <span class="slash">/</span>
+                <span class="path">性别</span>
+    
+    &nbsp;</p></div>
+</div>
+
+<hr class="hide" />
+
+    <div id="leftmenu">
+<div id="leftmenu-design">
+    
+            
+    
+    
+
+        
+    
+    
+    
+            <div class="box-header"><div class="box-ml">
+        <h4>设置</h4>
+        </div></div>
+
+        <div class="box-bc"><div class="box-ml"><div class="box-content">
+
+                    <ul class="leftmenu-items">
+                                                                                <li><div><span class="disabled">缓存管理</span></div></li>
+                                                                                <li><div><span class="disabled">类</span></div></li>
+                                                                                <li><div><span class="disabled">已收集的信息</span></div></li>
+                                                                                <li><div><span class="disabled">扩展</span></div></li>
+                                                                                <li><div><span class="disabled">Ini设置</span></div></li>
+                                                                                <li><div><span class="disabled">语言</span></div></li>
+                                                                                <li><div><span class="disabled">菜单管理</span></div></li>
+                                                                                <li><div><span class="disabled">PDF导出</span></div></li>
+                                                                                <li><div><span class="disabled">软件包</span></div></li>
+                                                                                <li><div><span class="disabled">快速应用程序开发（RAD）</span></div></li>
+                                                                                <li><div><span class="disabled">RSS</span></div></li>
+                                                                                <li><div><span class="disabled">搜索统计</span></div></li>
+                                                                                <li><div><span class="disabled">分区</span></div></li>
+                                                                                <li><div><span class="disabled">会话</span></div></li>
+                                                                                <li><div><span class="disabled">对象状态</span></div></li>
+                                                                                <li><div><span class="disabled">系统信息</span></div></li>
+                                                                                <li><div><span class="disabled">检查更新</span></div></li>
+                                                                                <li><div><span class="disabled">触发器</span></div></li>
+                                                                                <li><div><span class="disabled">链接管理</span></div></li>
+                                                                                <li><div><span class="disabled">URL翻译器</span></div></li>
+                                                                                <li><div><span class="disabled">URL通配符</span></div></li>
+                                                                                <li><div><span class="disabled">工作流</span></div></li>
+                                                                                <li><div><span class="disabled">工作流进程</span></div></li>
+                                                                                <li><div><span class="disabled">oAuth管理</span></div></li>
+                        </ul>
+        
+        </div></div></div>
+        
+
+<div id="widthcontrol-links" class="widthcontrol">
+<p>    <span class="current">小</span>
+    <a href="/index.php/ezwebin_site_admin/user/preferences/set/admin_left_menu_size/medium" title="将左侧菜单的宽度修改为中等尺寸。">中</a>
+    <a href="/index.php/ezwebin_site_admin/user/preferences/set/admin_left_menu_size/large" title="将左侧菜单的宽度修改为大尺寸。">大</a>
+    </p>
+</div>
+
+
+<div id="widthcontrol-handler" class="hide">
+<div class="widthcontrol-grippy"></div>
+</div>
+
+    
+</div>
+</div>
+
+<hr class="hide" />

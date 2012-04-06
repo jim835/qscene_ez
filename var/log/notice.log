@@ -1,0 +1,1185 @@
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/admin2/templates/page_head_style_inline.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_head_style_inline.tpl" with resource ""
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/admin2/templates/page_head_style_inline.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_head_script.tpl" with resource ""
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/admin2/templates/page_head_script.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/page_mainarea.tpl" with resource ""
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/standard/templates/page_mainarea.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "page_warning.tpl" with resource "design"
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/standard/templates/page_warning.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/page_warning.tpl" with resource ""
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/standard/templates/page_warning.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_copyright.tpl" with resource ""
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/admin2/templates/page_copyright.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/standard/templates/setup/debug_toolbar.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/clear_cache.tpl" with resource "design"
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/quick_settings.tpl" with resource "design"
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 05 2012 17:21:14 ] [127.0.0.1] :
+design/admin2/templates/setup/quick_settings.tpl, utf-8
+[ Apr 05 2012 17:21:15 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/setup/clear_cache.tpl" with resource ""
+[ Apr 05 2012 17:21:15 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 05 2012 17:21:15 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/setup/quick_settings.tpl" with resource ""
+[ Apr 05 2012 17:21:15 ] [127.0.0.1] :
+design/admin2/templates/setup/quick_settings.tpl, utf-8
+[ Apr 05 2012 17:28:17 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 17:28:17 ] [127.0.0.1] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Apr 05 2012 17:28:17 ] [127.0.0.1] :
+design/admin2/templates/node/view/full.tpl, utf-8
+[ Apr 05 2012 17:28:17 ] [127.0.0.1] :
+eZTemplate: Loading template "infocollection_validation.tpl" with resource "design"
+[ Apr 05 2012 17:28:18 ] [127.0.0.1] :
+eZTemplate: Loading template "window_controls.tpl" with resource "design"
+[ Apr 05 2012 17:28:18 ] [127.0.0.1] :
+eZTemplate: Loading template "children.tpl" with resource "design"
+[ Apr 05 2012 17:28:18 ] [127.0.0.1] :
+eZTemplate: Loading template "no_children.tpl" with resource "design"
+[ Apr 05 2012 17:28:18 ] [127.0.0.1] :
+design/admin2/templates/infocollection_validation.tpl, utf-8
+[ Apr 05 2012 17:28:18 ] [127.0.0.1] :
+design/admin2/templates/window_controls.tpl, utf-8
+[ Apr 05 2012 17:28:18 ] [127.0.0.1] :
+design/admin2/templates/children.tpl, utf-8
+[ Apr 05 2012 17:28:18 ] [127.0.0.1] :
+design/admin2/templates/no_children.tpl, utf-8
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/infocollection_validation.tpl" with resource ""
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+design/admin2/templates/infocollection_validation.tpl, utf-8
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/window_controls.tpl" with resource ""
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+design/admin2/templates/window_controls.tpl, utf-8
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+eZTemplate: Loading template "window_controls_extratabs.tpl" with resource "design"
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+eZTemplate: Loading template "windows.tpl" with resource "design"
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+design/admin2/templates/window_controls_extratabs.tpl, utf-8
+[ Apr 05 2012 17:28:19 ] [127.0.0.1] :
+design/admin2/templates/windows.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/window_controls_extratabs.tpl" with resource ""
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/window_controls_extratabs.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/windows.tpl" with resource ""
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/windows.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "preview.tpl" with resource "design"
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "details.tpl" with resource "design"
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "translations.tpl" with resource "design"
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "locations.tpl" with resource "design"
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "relations.tpl" with resource "design"
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "ordering.tpl" with resource "design"
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "windows_extratabs.tpl" with resource "design"
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/preview.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/details.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/translations.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/locations.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/relations.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/ordering.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/windows_extratabs.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/preview.tpl" with resource ""
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/preview.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/article.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/comment.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/company.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/feedback_form.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/file.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/flash.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/folder.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/forum.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/forum_topic.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/forum_reply.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/gallery.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/image.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/link.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/person.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/poll.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/product.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/review.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/quicktime.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/real_video.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/weblog.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/override/templates/admin_preview/windows_media.tpl, utf-8
+[ Apr 05 2012 17:28:20 ] [127.0.0.1] :
+design/admin2/templates/node/view/admin_preview.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/node/view/admin_preview.tpl" with resource ""
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/admin2/templates/node/view/admin_preview.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezstring.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezobjectrelation.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezobjectrelation.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/view/text_linked.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltext.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/embed.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/view/embed.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/td.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/tr.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/tr.tpl, utf-8
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Apr 05 2012 17:28:21 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/link.tpl, utf-8
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/li.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/li.tpl, utf-8
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/li.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/ul.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/ul.tpl, utf-8
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/factbox.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/factbox.tpl, utf-8
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl, utf-8
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/quote.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/quote.tpl, utf-8
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/tr.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/table.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezxmltags/table.tpl, utf-8
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 05 2012 17:28:22 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+eZTemplate: Loading template "content/view/embed.tpl" with resource "design"
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezkeyword.tpl" with resource "design"
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezkeyword.tpl, utf-8
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/details.tpl" with resource ""
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+design/admin2/templates/details.tpl, utf-8
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/translations.tpl" with resource ""
+[ Apr 05 2012 17:28:23 ] [127.0.0.1] :
+design/admin2/templates/translations.tpl, utf-8
+[ Apr 05 2012 17:28:24 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/locations.tpl" with resource ""
+[ Apr 05 2012 17:28:24 ] [127.0.0.1] :
+design/admin2/templates/locations.tpl, utf-8
+[ Apr 05 2012 17:28:25 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/relations.tpl" with resource ""
+[ Apr 05 2012 17:28:25 ] [127.0.0.1] :
+design/admin2/templates/relations.tpl, utf-8
+[ Apr 05 2012 17:28:25 ] [127.0.0.1] :
+eZTemplate: Loading template "navigator/google.tpl" with resource "design"
+[ Apr 05 2012 17:28:26 ] [127.0.0.1] :
+design/standard/templates/content/view/text_linked.tpl, utf-8
+[ Apr 05 2012 17:28:26 ] [127.0.0.1] :
+design/standard/templates/content/view/text_linked.tpl, utf-8
+[ Apr 05 2012 17:28:26 ] [127.0.0.1] :
+design/admin2/templates/navigator/google.tpl, utf-8
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/content/view/text_linked.tpl" with resource ""
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+design/standard/templates/content/view/text_linked.tpl, utf-8
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/navigator/google.tpl" with resource ""
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+design/admin2/templates/navigator/google.tpl, utf-8
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/ordering.tpl" with resource ""
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+design/admin2/templates/ordering.tpl, utf-8
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/windows_extratabs.tpl" with resource ""
+[ Apr 05 2012 17:28:27 ] [127.0.0.1] :
+design/admin2/templates/windows_extratabs.tpl, utf-8
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/children.tpl" with resource ""
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+design/admin2/templates/children.tpl, utf-8
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+eZTemplate: Loading template "children_detailed.tpl" with resource "design"
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+eZTemplate: Loading template "navigator/alphabetical.tpl" with resource "design"
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+design/admin2/templates/children_detailed.tpl, utf-8
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+design/admin2/templates/navigator/alphabetical.tpl, utf-8
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/children_detailed.tpl" with resource ""
+[ Apr 05 2012 17:28:28 ] [127.0.0.1] :
+design/admin2/templates/children_detailed.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/navigator/alphabetical.tpl" with resource ""
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/navigator/alphabetical.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "navigator/google.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/pagelayout.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_head.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_head_style.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_head_script.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_header.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_topmenu.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "toolbar/full/admin_current_user.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "toolbar/full/admin_preferences.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "toolbar/full/admin_bookmarks.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "toolbar/full/admin_clear_cache.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "toolbar/full/admin_quick_settings.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_toppath.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_leftmenu.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_mainarea.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_mainarea.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "page_copyright.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/standard/templates/page_head.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/page_head_style.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/page_head_script.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/page_header.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/page_topmenu.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_current_user.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_preferences.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_bookmarks.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_clear_cache.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_quick_settings.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/page_toppath.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/page_leftmenu.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/standard/templates/page_mainarea.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/standard/templates/page_mainarea.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/page_copyright.tpl, utf-8
+[ Apr 05 2012 17:28:29 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_menu.tpl, utf-8
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/page_head.tpl" with resource ""
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+design/standard/templates/page_head.tpl, utf-8
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+eZTemplate: Loading template "link.tpl" with resource "design"
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+design/standard/templates/link.tpl, utf-8
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/link.tpl" with resource ""
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+design/standard/templates/link.tpl, utf-8
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_head_style.tpl" with resource ""
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+design/admin2/templates/page_head_style.tpl, utf-8
+[ Apr 05 2012 17:28:30 ] [127.0.0.1] :
+eZTemplate: Loading template "page_head_style_inline.tpl" with resource "design"
+[ Apr 05 2012 17:28:31 ] [127.0.0.1] :
+design/admin2/templates/page_head_style_inline.tpl, utf-8
+[ Apr 05 2012 17:28:31 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_head_style_inline.tpl" with resource ""
+[ Apr 05 2012 17:28:31 ] [127.0.0.1] :
+design/admin2/templates/page_head_style_inline.tpl, utf-8
+[ Apr 05 2012 17:28:31 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_head_script.tpl" with resource ""
+[ Apr 05 2012 17:28:31 ] [127.0.0.1] :
+design/admin2/templates/page_head_script.tpl, utf-8
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_header.tpl" with resource ""
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+design/admin2/templates/page_header.tpl, utf-8
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+eZTemplate: Loading template "page_search.tpl" with resource "design"
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+design/admin2/templates/page_search.tpl, utf-8
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_search.tpl" with resource ""
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+design/admin2/templates/page_search.tpl, utf-8
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_topmenu.tpl" with resource ""
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+design/admin2/templates/page_topmenu.tpl, utf-8
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+eZTemplate: Loading template "page_topmenuitem.tpl" with resource "design"
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+design/admin2/templates/page_topmenuitem.tpl, utf-8
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_topmenuitem.tpl" with resource ""
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+design/admin2/templates/page_topmenuitem.tpl, utf-8
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/toolbar/full/admin_current_user.tpl" with resource ""
+[ Apr 05 2012 17:28:32 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_current_user.tpl, utf-8
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/toolbar/full/admin_preferences.tpl" with resource ""
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_preferences.tpl, utf-8
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/toolbar/full/admin_bookmarks.tpl" with resource ""
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_bookmarks.tpl, utf-8
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/toolbar/full/admin_clear_cache.tpl" with resource ""
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_clear_cache.tpl, utf-8
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/clear_cache.tpl" with resource "design"
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/setup/clear_cache.tpl" with resource ""
+[ Apr 05 2012 17:28:33 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/toolbar/full/admin_quick_settings.tpl" with resource ""
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+design/admin2/templates/toolbar/full/admin_quick_settings.tpl, utf-8
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/quick_settings.tpl" with resource "design"
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+design/admin2/templates/setup/quick_settings.tpl, utf-8
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/setup/quick_settings.tpl" with resource ""
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+design/admin2/templates/setup/quick_settings.tpl, utf-8
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_toppath.tpl" with resource ""
+[ Apr 05 2012 17:28:34 ] [127.0.0.1] :
+design/admin2/templates/page_toppath.tpl, utf-8
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_leftmenu.tpl" with resource ""
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+design/admin2/templates/page_leftmenu.tpl, utf-8
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/content/menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+design/admin2/templates/parts/content/menu.tpl, utf-8
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+eZTemplate: Loading template "contentstructuremenu/content_structure_menu_dynamic.tpl" with resource "design"
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/ini_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+design/admin2/templates/contentstructuremenu/content_structure_menu_dynamic.tpl, utf-8
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+design/admin2/templates/parts/ini_menu.tpl, utf-8
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/contentstructuremenu/content_structure_menu_dynamic.tpl" with resource ""
+[ Apr 05 2012 17:28:35 ] [127.0.0.1] :
+design/admin2/templates/contentstructuremenu/content_structure_menu_dynamic.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/parts/ini_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/parts/ini_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/page_mainarea.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/standard/templates/page_mainarea.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "page_warning.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/standard/templates/page_warning.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/page_warning.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/standard/templates/page_warning.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/page_copyright.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/page_copyright.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_context_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_subitems_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_class_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_bookmark_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_sub_createhere_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_sub_edit_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_sub_advance_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_sub_editclass_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_sub_siteaccess_menus.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_context_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_subitems_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_class_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_bookmark_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_createhere_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_edit_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_advance_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_editclass_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_siteaccess_menus.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_context_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_context_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmucontextmenu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+extension/ezmultiupload/design/standard/templates/node/ezmucontextmenu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextmenu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+extension/ezodf/design/standard/templates/node/oocontextmenu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_subitems_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_subitems_menu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "node/ezmusubitemscontextmenu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+extension/ezmultiupload/design/standard/templates/node/ezmusubitemscontextmenu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oosubitemscontextmenu.tpl" with resource "design"
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+extension/ezodf/design/standard/templates/node/oosubitemscontextmenu.tpl, utf-8
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_class_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:36 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_class_menu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_bookmark_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_bookmark_menu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "node/oocontextsubmenu.tpl" with resource "design"
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+extension/ezodf/design/standard/templates/node/oocontextsubmenu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "popupmenu/popup_tag_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+extension/eztags/design/admin2/templates/popupmenu/popup_tag_menu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_sub_createhere_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_createhere_menu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_sub_edit_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_edit_menu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_sub_advance_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_advance_menu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_sub_editclass_menu.tpl" with resource ""
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_editclass_menu.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "design/admin2/templates/popupmenu/popup_sub_siteaccess_menus.tpl" with resource ""
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+design/admin2/templates/popupmenu/popup_sub_siteaccess_menus.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+design/standard/templates/setup/debug_toolbar.tpl, utf-8
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/clear_cache.tpl" with resource "design"
+[ Apr 05 2012 17:28:37 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/quick_settings.tpl" with resource "design"
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] :
+eZTemplate: Loading template "user/login.tpl" with resource "design"
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/templates/user/login.tpl, utf-8
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] :
+eZTemplate: Loading template "menu/flat_top.tpl" with resource "design"
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 17:28:46 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] Timing Point: Module start 'user'
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] :
+eZTemplate: Loading template "user/login.tpl" with resource "design"
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] Timing Point: Module end 'user'
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] :
+eZTemplate: Loading template "loginpagelayout.tpl" with resource "design"
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 17:28:52 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 17:28:56 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 17:28:56 ] [127.0.0.1] :
+eZTemplate: Loading template "content/dashboard.tpl" with resource "design"
+[ Apr 05 2012 17:28:56 ] [127.0.0.1] :
+design/admin2/templates/content/dashboard.tpl, utf-8
+[ Apr 05 2012 17:28:56 ] [127.0.0.1] :
+eZTemplate: Loading template "dashboard/pending_list.tpl" with resource "design"
+[ Apr 05 2012 17:28:56 ] [127.0.0.1] :
+design/standard/templates/dashboard/pending_list.tpl, utf-8
+[ Apr 05 2012 17:28:57 ] [127.0.0.1] :
+eZTemplate: Loading template "dashboard/maintenance.tpl" with resource "design"
+[ Apr 05 2012 17:28:57 ] [127.0.0.1] :
+design/standard/templates/dashboard/maintenance.tpl, utf-8
+[ Apr 05 2012 17:28:57 ] [127.0.0.1] :
+eZTemplate: Loading template "dashboard/drafts.tpl" with resource "design"
+[ Apr 05 2012 17:28:57 ] [127.0.0.1] :
+design/standard/templates/dashboard/drafts.tpl, utf-8
+[ Apr 05 2012 17:28:57 ] [127.0.0.1] :
+eZTemplate: Loading template "dashboard/latest_content.tpl" with resource "design"
+[ Apr 05 2012 17:28:57 ] [127.0.0.1] :
+design/standard/templates/dashboard/latest_content.tpl, utf-8
+[ Apr 05 2012 17:28:58 ] [127.0.0.1] :
+eZTemplate: Loading template "dashboard/all_latest_content.tpl" with resource "design"
+[ Apr 05 2012 17:28:58 ] [127.0.0.1] :
+design/standard/templates/dashboard/all_latest_content.tpl, utf-8
+[ Apr 05 2012 17:28:58 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 17:28:58 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 17:28:59 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/my/menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:59 ] [127.0.0.1] :
+design/admin2/templates/parts/my/menu.tpl, utf-8
+[ Apr 05 2012 17:28:59 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/ini_menu.tpl" with resource "design"
+[ Apr 05 2012 17:28:59 ] [127.0.0.1] :
+eZTemplate: Loading template "contentstructuremenu/content_structure_menu_dynamic.tpl" with resource "design"
+[ Apr 05 2012 17:28:59 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 17:28:59 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] PHP: E_NOTICE:
+Undefined index: qstest in /home/ez/ezpublish/ezpublish_community/extension/qstest/modules/qstest/call.php on line 3
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+eZTemplate: Loading template "qstest/call.tpl" with resource "design"
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+design/standard/templates/setup/debug_toolbar.tpl, utf-8
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/clear_cache.tpl" with resource "design"
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/quick_settings.tpl" with resource "design"
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+design/standard/templates/setup/quick_settings.tpl, utf-8
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/setup/clear_cache.tpl" with resource ""
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/setup/quick_settings.tpl" with resource ""
+[ Apr 05 2012 19:30:05 ] [127.0.0.1] :
+design/standard/templates/setup/quick_settings.tpl, utf-8
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] :
+eZTemplate: Loading template "qstest/call.tpl" with resource "design"
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:30:48 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] :
+eZTemplate: Loading template "call.tpl" with resource "design"
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] :
+extension/qstest/design/qstest/templates/call.tpl, utf-8
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:32:18 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:32:19 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:32:19 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: sdfsdfsd
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] :
+eZTemplate: Loading template "call.tpl" with resource "design"
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:33:05 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:33:06 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:33:06 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: wewsdfsdf
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] :
+eZTemplate: Loading template "call.tpl" with resource "design"
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:36:57 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] qstest:qstest/hello.php:
+Please insert data
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] :
+eZTemplate: Loading template "call.tpl" with resource "design"
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:37:09 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:37:14 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:14 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: lskdjfslkjelksjdlkf
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] :
+eZTemplate: Loading template "call.tpl" with resource "design"
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:37:15 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] Timing Point: Module start 'qstest'
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] qstest:qstest/hello.php:
+Name: Hello jim
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] :
+eZTemplate: Loading template "call.tpl" with resource "design"
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] Timing Point: Module end 'qstest'
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:37:23 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 05 2012 19:37:38 ] [127.0.0.1] Timing Point: Module start 'content'
+[ Apr 05 2012 19:37:38 ] [127.0.0.1] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/full/folder.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+eZTemplate: Loading template "navigator/google.tpl" with resource "design"
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/article.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/geo_article.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/article_mainpage.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/article_subpage.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/banner.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/blog.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/blog_post.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/comment.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/documentation_page.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/event_calendar.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/event.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/feedback_form.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/file.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/flash.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/folder.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/forum.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/forum_reply.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/forum_topic.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/forums.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/gallery.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/image.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/infobox.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/link.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/multicalendar.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/poll.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/product.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/silverlight.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/quicktime.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/real_video.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/override/templates/line/windows_media.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/templates/node/view/line.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+design/standard/templates/navigator/google.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+eZTemplate: Loading template "content/datatype/view/ezstring.tpl" with resource "design"
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+design/standard/templates/content/datatype/view/ezstring.tpl, utf-8
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+eZTemplate: Loading template "design/standard/templates/navigator/google.tpl" with resource ""
+[ Apr 05 2012 19:37:39 ] [127.0.0.1] :
+design/standard/templates/navigator/google.tpl, utf-8
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] Timing Point: Module end 'content'
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+eZTemplate: Loading template "menu/flat_top.tpl" with resource "design"
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_leftmenu.tpl" with resource ""
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/templates/page_leftmenu.tpl, utf-8
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+eZTemplate: Loading template "menu/flat_left.tpl" with resource "design"
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/templates/menu/flat_left.tpl, utf-8
+[ Apr 05 2012 19:37:40 ] [127.0.0.1] :
+eZTemplate: Loading template "simplified_treemenu/show_simplified_menu.tpl" with resource "design"
+[ Apr 05 2012 19:37:41 ] [127.0.0.1] :
+extension/ezwebin/design/ezwebin/templates/simplified_treemenu/show_simplified_menu.tpl, utf-8
+[ Apr 05 2012 19:37:41 ] [127.0.0.1] Timing Point: End
+[ Apr 05 2012 19:37:41 ] [127.0.0.1] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] Timing Point: Script start
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "error/kernel/20.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+design/standard/templates/error/kernel/20.tpl, utf-8
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] Timing Point: Module end 'error'
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/pagelayout.tpl, utf-8
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_head_displaystyles.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_head.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_head_style.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_head_script.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_header.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_topmenu.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_toppath.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_toolbar.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_leftmenu.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_mainarea.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_extramenu.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_footer.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+eZTemplate: Loading template "page_footer_script.tpl" with resource "design"
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+design/standard/templates/page_head_displaystyles.tpl, utf-8
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_head.tpl, utf-8
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_head_style.tpl, utf-8
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_head_script.tpl, utf-8
+[ Apr 06 2012 15:01:22 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_header.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_toppath.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_toolbar.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_leftmenu.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_mainarea.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_extramenu.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_footer.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+eZTemplate: Loading template "design/standard/templates/page_head_displaystyles.tpl" with resource ""
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+design/standard/templates/page_head_displaystyles.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_head.tpl" with resource ""
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_head.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+eZTemplate: Loading template "canonical_link.tpl" with resource "design"
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+eZTemplate: Loading template "link.tpl" with resource "design"
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/canonical_link.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/link.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/canonical_link.tpl" with resource ""
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/canonical_link.tpl, utf-8
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/link.tpl" with resource ""
+[ Apr 06 2012 15:01:23 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/link.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_head_style.tpl" with resource ""
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_head_style.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_head_script.tpl" with resource ""
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_head_script.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/qstest/design/qstest/templates/page_header.tpl" with resource ""
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_header.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "page_header_languages.tpl" with resource "design"
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "page_header_links.tpl" with resource "design"
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "page_header_logo.tpl" with resource "design"
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_header_links.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_header_logo.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl" with resource ""
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_header_languages.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_header_links.tpl" with resource ""
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_header_links.tpl, utf-8
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/qstest/design/qstest/templates/page_header_logo.tpl" with resource ""
+[ Apr 06 2012 15:01:24 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_header_logo.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl" with resource ""
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_topmenu.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "menu/flat_top.tpl" with resource "design"
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/menu/flat_top.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_toppath.tpl" with resource ""
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_toppath.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "parts/path.tpl" with resource "design"
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/parts/path.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/qstest/design/qstest/templates/page_mainarea.tpl" with resource ""
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_mainarea.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "left_side_news.tpl" with resource "design"
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/left_side_news.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/qstest/design/qstest/templates/left_side_news.tpl" with resource ""
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/left_side_news.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/qstest/design/qstest/templates/page_footer.tpl" with resource ""
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/qstest/design/qstest/templates/page_footer.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl" with resource ""
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/page_footer_script.tpl, utf-8
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] Timing Point: End
+[ Apr 06 2012 15:01:25 ] [192.168.1.5] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+design/standard/templates/setup/debug_toolbar.tpl, utf-8
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+eZTemplate: Loading template "setup/clear_cache.tpl" with resource "design"
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+eZTemplate: Loading template "setup/quick_settings.tpl" with resource "design"
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+design/standard/templates/setup/quick_settings.tpl, utf-8
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+eZTemplate: Loading template "design/standard/templates/setup/clear_cache.tpl" with resource ""
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+design/standard/templates/setup/clear_cache.tpl, utf-8
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+eZTemplate: Loading template "design/standard/templates/setup/quick_settings.tpl" with resource ""
+[ Apr 06 2012 15:01:26 ] [192.168.1.5] :
+design/standard/templates/setup/quick_settings.tpl, utf-8
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] Timing Point: Script start
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] :
+eZTemplate: Loading template "error/kernel/20.tpl" with resource "design"
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] Timing Point: Module end 'error'
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] Timing Point: End
+[ Apr 06 2012 15:01:49 ] [192.168.1.5] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] Timing Point: Module start 'content'
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] :
+eZTemplate: Loading template "node/view/full.tpl" with resource "design"
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/override/templates/full/frontpage.tpl, utf-8
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/override/templates/billboard/banner.tpl, utf-8
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/override/templates/billboard/flash.tpl, utf-8
+[ Apr 06 2012 15:02:47 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/content/view/billboard.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+design/standard/templates/content/datatype/view/ezxmltext.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/paragraph.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+design/standard/templates/content/datatype/view/ezxmltags/td.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/tr.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/templates/content/datatype/view/ezxmltags/tr.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+design/standard/templates/content/datatype/view/ezxmltags/link.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/li.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+design/standard/templates/content/datatype/view/ezxmltags/li.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/li.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/ul.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+design/standard/templates/content/datatype/view/ezxmltags/ul.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/factbox.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/override/templates/datatype/ezxmltext/factbox.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/link.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/quote.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+extension/ezwebin/design/ezwebin/override/templates/datatype/ezxmltext/quote.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/td.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/tr.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/table.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+design/standard/templates/content/datatype/view/ezxmltags/table.tpl, utf-8
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] XML output handler: embed:
+None of the object #130's location(s) is visible
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltags/paragraph.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "content/datatype/view/ezxmltext.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] Timing Point: Module end 'content'
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "pagelayout.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "menu/flat_top.tpl" with resource "design"
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] Timing Point: End
+[ Apr 06 2012 15:02:48 ] [192.168.1.5] :
+eZTemplate: Loading template "setup/debug_toolbar.tpl" with resource "design"

@@ -1,0 +1,134 @@
+                          <title>Website Interface / Design - Website Interface</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="zh-CN" />
+
+                    <meta name="author" content="QS" />
+    
+                <meta name="copyright" content="QS" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+    
+    
+    <!--[if lt IE 9 ]>
+        <meta http-equiv="X-UA-Compatible" content="IE=8,chrome=1" />
+    <![endif]-->
+
+    <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+        
+<link rel="Home" href="/index.php" title="Website Interface首页" />
+<link rel="Index" href="/index.php" />
+<link rel="Top"  href="/index.php" title="Website Interface / Design - Website Interface" />
+<link rel="Search" href="/index.php/content/advancedsearch" title="搜索Website Interface" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php/ezinfo/copyright" />
+<link rel="Author" href="/index.php/ezinfo/about" />
+<link rel="Alternate" type="application/rss+xml" title="RSS" href="/index.php/rss/feed/my_feed" />
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/index.php/layout/set/print/content/edit/54/7/chi-CN" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "打印机版本";
+    head.appendChild(printNode);
+})();
+</script>      <link rel="stylesheet" type="text/css" href="/var/ezwebin_site/cache/public/stylesheets/3071f52c4397a0c0bf9559b370421019_all.css" />
+
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/classes-colors.css" />
+<link rel="stylesheet" type="text/css" href="/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/site-colors.css" />
+<link rel="stylesheet" type="text/css" href="/extension/ezwebin/design/ezwebin/stylesheets/print.css" media="print" />
+<!-- IE conditional comments; for bug fixes for different IE versions -->
+<!--[if IE 5]>     <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie5.css);    </style> <![endif]-->
+<!--[if lte IE 7]> <style type="text/css"> @import url(/extension/ezwebin/design/ezwebin/stylesheets/browsers/ie7lte.css); </style> <![endif]-->
+<script type="text/javascript" src="/var/ezwebin_site/cache/public/javascript/557864f5ba303da0e4e47d5363cb5ab3.js" charset="utf-8"></script>
+
+</head>
+
+<!--[if lt IE 7 ]><body class="ie6"><![endif]-->
+<!--[if IE 7 ]>   <body class="ie7"><![endif]-->
+<!--[if IE 8 ]>   <body class="ie8"><![endif]-->
+<!--[if (gt IE 8)|!(IE)]><!--><body><!--<![endif]-->
+<!-- Complete page area: START -->
+
+<!-- Change between "sidemenu"/"nosidemenu" and "extrainfo"/"noextrainfo" to switch display of side columns on or off  -->
+<div id="page" class="nosidemenu noextrainfo section_id_5 subtree_level_0_node_id_58 subtree_level_1_node_id_56">
+
+  
+  <!-- Header area: START -->
+    <div id="header-position">
+  <div id="header" class="float-break">
+    <div id="usermenu">
+      <div id="languages">
+    <ul>
+                            <li class="current_siteaccess"><a href="/index.php/switchlanguage/to/chi/content/edit/54/7/chi-CN">Chi</a></li>
+            <li><a href="/index.php/switchlanguage/to/eng/content/edit/54/7/chi-CN">Eng</a></li>
+        </ul>
+</div>  
+      <div id="links">
+    <ul>
+                                <li id="tagcloud"><a href="/index.php/content/view/tagcloud/2" title="云标签">云标签</a></li>
+                                                    <li id="sitemap"><a href="/index.php/content/view/sitemap/2" title="网站地图">网站地图</a></li>
+                                                <li id="myprofile"><a href="/index.php/user/edit" title="我的信息">我的信息</a></li>
+                        <li id="logout"><a href="/index.php/user/logout" title="登出">登出 ( Administrator User )</a></li>
+            
+            <li id="sitesettings"><a href="/index.php/content/edit/54/a" title="网站设置">网站设置</a></li>
+        </ul>
+</div>    </div>
+
+    <div id="logo">    <a href="/index.php" title="Website Interface"><img src="/var/ezwebin_site/storage/images/design/website-interface/172-2-chi-CN/Website-Interface.png" alt="" width="176" height="42" /></a></div>    
+    <div id="searchbox">
+  <form action="/index.php/content/search">
+  <div id="searchbox-inner">
+    <label for="searchtext" class="hide">Search text:</label>
+        <input id="searchtext" name="SearchText" type="text" value="" size="12" disabled="disabled" />
+    <input id="searchbutton" class="button-disabled" type="submit" value="搜索" title="搜索" disabled="disabled" />
+      </div>
+  </form>
+</div>    
+    <p class="hide"><a href="#main">Skip to main content</a></p>
+  </div>
+  </div>  <!-- Header area: END -->
+
+  
+  <!-- Top menu area: START -->
+        <div id="topmenu-position">
+  <div id="topmenu" class="float-break">
+    <div class="topmenu-design">
+    <!-- Top menu content: START -->
+    <ul id="topmenu-firstlevel">
+                                                                                                                       
+                            <li id="node_id_214" class="firstli lastli"><div><a href="/index.php/node_214" onclick="return false;"><span>中医病案库</span></a></div></li>
+                                  </ul>
+    <!-- Top menu content: END -->
+</div>  </div>
+  </div>    <!-- Top menu area: END -->
+
+  <!-- Path area: START -->
+        <div id="path">
+      <!-- Path content: START -->
+  <p>
+        <a href="/index.php/Design">Design</a>
+      <span class="path-separator">/</span>      <a href="/index.php/Design/Website-Interface">Website Interface</a>
+        </p>
+  <!-- Path content: END -->  </div>    <!-- Path area: END -->
+
+  <!-- Toolbar area: START -->
+    <!-- Toolbar area: END -->
+
+  <!-- Columns area: START -->
+  <div id="columns-position">
+  <div id="columns" class="float-break">
+
+    <!-- Side menu area: START -->
+        <!-- Side menu area: END -->
+
+  
